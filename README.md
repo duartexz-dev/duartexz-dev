@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋
 # Olá 👋, eu sou Arthur Duarte
 
 🚀 **Futuro Desenvolvedor Full-Stack | Estudando Desenvolvimento Web**  
