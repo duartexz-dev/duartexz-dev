@@ -1,18 +1,18 @@
 ## Hi there 👋
-# Hi 👋, I'm Arthur Duarte
+# Olá 👋, eu sou Arthur Duarte
 
-🚀 **Future Full-Stack Developer | Learning Web Development**  
-🇧🇷 Brazil
+🚀 **Futuro Desenvolvedor Full-Stack | Estudando Desenvolvimento Web**  
+🇧🇷 Brasil
 
-I'm currently learning **HTML, CSS, and JavaScript** and building small projects to improve my programming skills.
+Atualmente estou aprendendo **HTML, CSS e JavaScript** e criando pequenos projetos para melhorar minhas habilidades em programação.
 
-My goal is to become a **Full-Stack Developer** and create **websites, applications, and useful systems**.
+Meu objetivo é me tornar um **Desenvolvedor Full-Stack** e criar **sites, aplicações e sistemas úteis**.
 
-I also like to study **technology, programming, and entrepreneurship**.
+Também gosto de estudar **tecnologia, programação e empreendedorismo**.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/duartexz-dev">
@@ -25,19 +25,19 @@ I also like to study **technology, programming, and entrepreneurship**.
 
 ---
 
-## 🧠 What I'm learning
+## 🧠 O que estou aprendendo
 
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🧩 DOM Manipulation
-- 📦 Basic Web Projects
-- 🧠 Programming Logic
-- 💻 Web Development
+- 🌐 HTML5  
+- 🎨 CSS3  
+- ⚡ JavaScript  
+- 🧩 Manipulação do DOM  
+- 📦 Projetos básicos web  
+- 🧠 Lógica de programação  
+- 💻 Desenvolvimento Web  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Frontend
 
@@ -51,7 +51,7 @@ I also like to study **technology, programming, and entrepreneurship**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=tokyonight&count_private=true" />
@@ -60,20 +60,20 @@ I also like to study **technology, programming, and entrepreneurship**.
 
 ---
 
-## 🚀 Goals
+## 🚀 Objetivos
 
-- 📚 Learn **JavaScript deeply**
-- 🧠 Become a **Full-Stack Developer**
-- 💻 Build useful projects
-- 🌎 Work with technology in the future
-
----
-
-## 🚀 Philosophy
-
-> _"Every expert was once a beginner who never gave up."_
+- 📚 Aprender **JavaScript profundamente**  
+- 🧠 Me tornar um **Desenvolvedor Full-Stack**  
+- 💻 Criar projetos úteis  
+- 🌎 Trabalhar com tecnologia no futuro  
 
 ---
 
-⭐ If you like my projects, consider starring them  
-🤝 I'm always learning and open to new ideas
+## 🚀 Filosofia
+
+> _"A unica coisa que separa o fracassado do vencedor é a ação de tentar e a cobrança de aprender."_
+
+---
+
+⭐ Se você gostar dos meus projetos, considere dar uma estrela  
+🤝 Estou sempre aprendendo e aberto a novas ideias
