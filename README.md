@@ -1,4 +1,4 @@
-## Hi  👋
+
 # Olá 👋, eu sou Arthur Duarte
 
 🚀 **Futuro Desenvolvedor Full-Stack | Estudando Desenvolvimento Web**  
@@ -8,7 +8,6 @@ Atualmente estou aprendendo **HTML, CSS e JavaScript** e criando pequenos projet
 
 Meu objetivo é me tornar um **Desenvolvedor Full-Stack** e criar **sites, aplicações e sistemas úteis**.
 
-Também gosto de estudar **tecnologia, programação e empreendedorismo**.
 
 ---
 
@@ -62,7 +61,6 @@ Também gosto de estudar **tecnologia, programação e empreendedorismo**.
 
 ## 🚀 Objetivos
 
-- 📚 Aprender **JavaScript profundamente**  
 - 🧠 Me tornar um **Desenvolvedor Full-Stack**  
 - 💻 Criar projetos úteis  
 - 🌎 Trabalhar com tecnologia no futuro  
