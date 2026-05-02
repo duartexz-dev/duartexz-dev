@@ -1,17 +1,52 @@
+<h1 align="center">Hi 👋, I'm Arthur Duarte</h1>
 
-# Olá 👋, eu sou Arthur Duarte
+<p align="center">
+  🚀 Future Full-Stack Developer • Focused on Web Development  
+</p>
 
-🚀 **Futuro Desenvolvedor Full-Stack | Estudando Desenvolvimento Web**  
-🇧🇷 Brasil
-
-Atualmente estou aprendendo **HTML, CSS e JavaScript** e criando pequenos projetos para melhorar minhas habilidades em programação.
-
-Meu objetivo é me tornar um **Desenvolvedor Full-Stack** e criar **sites, aplicações e sistemas úteis**.
-
+<p align="center">
+  Building real projects, improving every day, and turning ideas into code.
+</p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🧠 About Me
+
+- 💻 Currently focused on **HTML, CSS, JavaScript**
+- ⚡ Building real-world projects to improve my skills
+- 🧩 Learning **DOM manipulation & interactive interfaces**
+- 🎯 Goal: Become a **Full-Stack Developer**
+- 📚 Constantly improving my **logic and problem-solving**
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexz-dev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🔨 Improving frontend fundamentals  
+- 🎨 Building modern UI interfaces  
+- ⚡ Writing cleaner and more efficient code  
+- 🌐 Creating useful and functional web projects  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/duartexz-dev">
@@ -24,54 +59,12 @@ Meu objetivo é me tornar um **Desenvolvedor Full-Stack** e criar **sites, aplic
 
 ---
 
-## 🧠 O que estou aprendendo
+## 💭 Mindset
 
-- 🌐 HTML5  
-- 🎨 CSS3  
-- ⚡ JavaScript  
-- 🧩 Manipulação do DOM  
-- 📦 Projetos básicos web  
-- 🧠 Lógica de programação  
-- 💻 Desenvolvimento Web  
+> “Consistency beats talent when talent doesn’t stay consistent.”
 
 ---
 
-## 🛠️ Tecnologias
-
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexz-dev&layout=compact&theme=tokyonight" />
+<p align="center">
+  ⭐ If you like my work, consider giving a star  
 </p>
-
----
-
-## 🚀 Objetivos
-
-- 🧠 Me tornar um **Desenvolvedor Full-Stack**  
-- 💻 Criar projetos úteis  
-- 🌎 Trabalhar com tecnologia no futuro  
-
----
-
-## 🚀 Filosofia
-
-> _"A unica coisa que separa o fracassado do vencedor é a ação de tentar e a cobrança de aprender."_
-
----
-
-⭐ Se você gostar dos meus projetos, considere dar uma estrela  
-🤝 Estou sempre aprendendo e aberto a novas ideias
