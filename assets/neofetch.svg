@@ -1,31 +1,47 @@
-<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="280" rx="24" fill="#0B1120"/>
-  <rect x="12" y="12" width="776" height="256" rx="20" fill="#111827" stroke="#1F2937"/>
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="edgeA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00FFFF"/>
+      <stop offset="1" stop-color="#6A5ACD"/>
+    </linearGradient>
+    <filter id="softGlow" x="-40" y="-40" width="900" height="320" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-  <text x="44" y="54" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600">Projects showcase</text>
-  <text x="44" y="78" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">Premium interface concepts in a clean, modern stack.</text>
+  <rect width="800" height="220" rx="24" fill="#080C10"/>
+  <rect x="10" y="10" width="780" height="200" rx="18" fill="#0D1320" stroke="#1F2937"/>
 
-  <g transform="translate(28,96)">
-    <rect width="220" height="150" rx="18" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.4"/>
-    <rect x="16" y="16" width="92" height="10" rx="5" fill="#38BDF8"/>
-    <text x="16" y="50" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600">code.flow</text>
-    <text x="16" y="76" fill="#CBD5E1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">[ JavaScript / DOM Engine ]</text>
-    <text x="16" y="98" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11">Flux logic, control, and interaction systems.</text>
-  </g>
+  <g filter="url(#softGlow)">
+    <g transform="translate(26 38)">
+      <rect width="220" height="140" rx="18" fill="#101827" stroke="url(#edgeA)" stroke-width="1.2"/>
+      <rect x="16" y="16" width="82" height="8" rx="4" fill="#00FFFF"/>
+      <text x="16" y="54" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">code.flow</text>
+      <text x="16" y="82" fill="#00FFFF" font-family="Consolas, monospace" font-size="11">[ JavaScript / DOM Engine ]</text>
+      <text x="16" y="104" fill="#708090" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11">Flux logic and motion control.</text>
+      <animateTransform attributeName="transform" type="translate" values="26 38;26 44;26 38" dur="4s" repeatCount="indefinite"/>
+    </g>
 
-  <g transform="translate(290,96)">
-    <rect width="220" height="150" rx="18" fill="#0F172A" stroke="#818CF8" stroke-opacity="0.4"/>
-    <rect x="16" y="16" width="110" height="10" rx="5" fill="#818CF8"/>
-    <text x="16" y="50" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600">nexusPay</text>
-    <text x="16" y="76" fill="#CBD5E1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">[ Async JS / REST APIs / Bootstrap ]</text>
-    <text x="16" y="98" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11">Gateway flow, simulation, and product polish.</text>
-  </g>
+    <g transform="translate(290 38)">
+      <rect width="220" height="140" rx="18" fill="#101827" stroke="url(#edgeA)" stroke-width="1.2"/>
+      <rect x="16" y="16" width="98" height="8" rx="4" fill="#6A5ACD"/>
+      <text x="16" y="54" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">nexusPay</text>
+      <text x="16" y="82" fill="#6A5ACD" font-family="Consolas, monospace" font-size="11">[ Async JS / REST APIs / Bootstrap ]</text>
+      <text x="16" y="104" fill="#708090" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11">Gateway simulation and data flow.</text>
+      <animateTransform attributeName="transform" type="translate" values="290 38;290 44;290 38" dur="4.5s" repeatCount="indefinite"/>
+    </g>
 
-  <g transform="translate(552,96)">
-    <rect width="220" height="150" rx="18" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.3"/>
-    <rect x="16" y="16" width="100" height="10" rx="5" fill="#38BDF8"/>
-    <text x="16" y="50" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600">focus</text>
-    <text x="16" y="76" fill="#CBD5E1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">[ HTML5 / CSS3 State Logic ]</text>
-    <text x="16" y="98" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11">UI performance, structure, and productivity logic.</text>
+    <g transform="translate(554 38)">
+      <rect width="220" height="140" rx="18" fill="#101827" stroke="url(#edgeA)" stroke-width="1.2"/>
+      <rect x="16" y="16" width="88" height="8" rx="4" fill="#00FFFF"/>
+      <text x="16" y="54" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">focus</text>
+      <text x="16" y="82" fill="#00FFFF" font-family="Consolas, monospace" font-size="11">[ HTML5 / CSS3 State Logic ]</text>
+      <text x="16" y="104" fill="#708090" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11">Productivity and UI performance.</text>
+      <animateTransform attributeName="transform" type="translate" values="554 38;554 44;554 38" dur="3.8s" repeatCount="indefinite"/>
+    </g>
   </g>
 </svg>
