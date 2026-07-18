@@ -1,0 +1,31 @@
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="280" rx="24" fill="#0B1120"/>
+  <rect x="12" y="12" width="776" height="256" rx="20" fill="#111827" stroke="#1F2937"/>
+
+  <text x="44" y="54" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600">Projects showcase</text>
+  <text x="44" y="78" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">Premium interface concepts in a clean, modern stack.</text>
+
+  <g transform="translate(28,96)">
+    <rect width="220" height="150" rx="18" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.4"/>
+    <rect x="16" y="16" width="92" height="10" rx="5" fill="#38BDF8"/>
+    <text x="16" y="50" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600">code.flow</text>
+    <text x="16" y="76" fill="#CBD5E1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">[ JavaScript / DOM Engine ]</text>
+    <text x="16" y="98" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11">Flux logic, control, and interaction systems.</text>
+  </g>
+
+  <g transform="translate(290,96)">
+    <rect width="220" height="150" rx="18" fill="#0F172A" stroke="#818CF8" stroke-opacity="0.4"/>
+    <rect x="16" y="16" width="110" height="10" rx="5" fill="#818CF8"/>
+    <text x="16" y="50" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600">nexusPay</text>
+    <text x="16" y="76" fill="#CBD5E1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">[ Async JS / REST APIs / Bootstrap ]</text>
+    <text x="16" y="98" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11">Gateway flow, simulation, and product polish.</text>
+  </g>
+
+  <g transform="translate(552,96)">
+    <rect width="220" height="150" rx="18" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.3"/>
+    <rect x="16" y="16" width="100" height="10" rx="5" fill="#38BDF8"/>
+    <text x="16" y="50" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600">focus</text>
+    <text x="16" y="76" fill="#CBD5E1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">[ HTML5 / CSS3 State Logic ]</text>
+    <text x="16" y="98" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11">UI performance, structure, and productivity logic.</text>
+  </g>
+</svg>

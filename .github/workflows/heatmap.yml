@@ -1,0 +1,44 @@
+name: Generate Snake Heatmap
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: duartexz-dev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+          color_snake: '#38bdf8'
+          color_dots: |
+            #0D1117
+            #111827
+            #1F2937
+            #818CF8
+
+      - name: Publish to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B output
+          git rm -rf . || true
+          mkdir -p dist
+          cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg || true
+          cp dist/github-contribution-grid-snake-dark.svg dist/github-contribution-grid-snake-dark.svg || true
+          git add dist
+          git commit -m "Update snake animation" || echo "No changes"
+          git push -f origin output

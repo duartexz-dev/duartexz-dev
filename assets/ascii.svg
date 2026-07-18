@@ -1,0 +1,19 @@
+<svg width="640" height="140" viewBox="0 0 640 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="140" rx="24" fill="#090D16"/>
+  <text x="42" y="54" fill="#38BDF8" font-family="Consolas, monospace" font-size="22" font-weight="600">[ /\\ ]</text>
+  <text x="42" y="86" fill="#818CF8" font-family="Consolas, monospace" font-size="22" font-weight="600">| • |</text>
+  <text x="42" y="118" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">crafted with calm precision</text>
+  <rect x="394" y="26" width="190" height="84" rx="18" fill="#111827" stroke="#23314A"/>
+  <path d="M426 70H558" stroke="url(#lineGrad)" stroke-width="8" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="0 132;132 0;0 132" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="462" cy="70" r="6" fill="#38BDF8">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <defs>
+    <linearGradient id="lineGrad" x1="426" y1="70" x2="558" y2="70" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+  </defs>
+</svg>
