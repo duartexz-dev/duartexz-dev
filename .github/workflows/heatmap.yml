@@ -34,15 +34,11 @@ jobs:
             #6A5ACD
             #00FFFF
 
-      - name: Publish to output branch
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -B output
-          git rm -rf . || true
-          mkdir -p dist
-          cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg || true
-          cp dist/github-contribution-grid-snake-dark.svg dist/github-contribution-grid-snake-dark.svg || true
-          git add dist
-          git commit -m "Update snake animation" || echo "No changes"
-          git push -f origin output
+      - name: Publish generated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

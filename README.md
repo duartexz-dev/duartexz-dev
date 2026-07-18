@@ -1,72 +1,61 @@
-# Arthur Duarte
+# Hi 👋, I'm Arthur Duarte
+
+### Future Full-Stack Developer • Focused on Web Development
+
+Building real projects, improving every day, and turning ideas into code.
+
+## 🌐 Where to find me
+
+[![GitHub](https://img.shields.io/badge/GitHub-duartexz-dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duartexz-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://example.com)
+
+## 🧠 What I do
+
+- Improve my frontend fundamentals every day.
+- Build modern and polished user interfaces.
+- Write clean, efficient, and maintainable code.
+- Create useful and functional web projects.
+- Work with advanced DOM manipulation and API consumption.
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend & Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 📂 Featured Projects
+
+| Project   | Focus                                                                               |
+| --------- | ----------------------------------------------------------------------------------- |
+| code.flow | Focused on logic optimization, flows, and DOM interaction.                          |
+| nexusPay  | Financial simulation gateway with async integrations using REST APIs and Bootstrap. |
+| focus     | Productivity engine focused on state management and UI flow.                        |
+
+## 📊 Statistics & Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duartexz-dev/duartexz-dev/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/duartexz-dev/duartexz-dev/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <div align="center">
-  <img src="./assets/terminal.svg" alt="Cyber-Luminal terminal banner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexz-dev&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="./assets/loading.svg" alt="Neon loading divider" />
-</div>
+## 🚀 Philosophy
 
-## System profile
-
-I am Arthur Duarte, a web developer building high-clarity interfaces with strong structure, advanced DOM control, elegant async flows, and modern API integration. My path is continuously evolving toward a full-stack perspective grounded in clean architecture and reliable execution.
-
-## Core stack
-
-### Dominados
-
-- JavaScript (ES6+, DOM, Async)
-- HTML5
-- CSS3
-- Bootstrap
-- REST APIs
-
-### Em aprimoramento
-
-- Python (automação, lógica e soluções práticas)
-
-## Project telemetry
-
-<div align="center">
-  <img src="./assets/neofetch.svg" alt="Project showcase" />
-</div>
-
-## Profile telemetry grid
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=cyberpunk&bg_color=080C10&title_color=00FFFF&icon_color=6A5ACD&text_color=708090&border_color=1F2937" alt="General stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=duartexz-dev&theme=cyberpunk&background=080C10&ring=00FFFF&fire=6A5ACD&stroke=1F2937" alt="Current streak" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexz-dev&layout=compact&theme=cyberpunk&bg_color=080C10&title_color=00FFFF&text_color=708090&border_color=1F2937" alt="Top languages" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=duartexz-dev&theme=onedark&no-frame=true&bg_color=080C10&border=1" alt="GitHub trophies" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## Contribution map
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/duartexz-dev/duartexz-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution heatmap" />
-</div>
-
-> Consistency beats talent when talent doesn’t stay consistent. ⭐ If you liked my work, consider leaving a star.
-
-<div align="center">
-  <img src="./assets/ascii.svg" alt="System closing line" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=duartexz-dev&color=00FFFF&style=flat-square&label=visitors" alt="Visitor counter" />
-</div>
+> "Consistency beats talent when talent doesn’t stay consistent."
