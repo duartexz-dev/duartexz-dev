@@ -89,7 +89,7 @@ Developer portfolio project.
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=duartexz-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
