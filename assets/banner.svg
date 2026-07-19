@@ -1,0 +1,50 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05060B"/>
+      <stop offset="100%" stop-color="#0A101B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5B84FF"/>
+      <stop offset="100%" stop-color="#69E0FF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="32" fill="url(#bg)"/>
+  <circle cx="196" cy="96" r="3" fill="#6A5ACD" opacity="0.92"/>
+  <circle cx="264" cy="64" r="2" fill="#8CCDF9" opacity="0.86"/>
+  <circle cx="1080" cy="52" r="2" fill="#5B84FF" opacity="0.8"/>
+  <circle cx="952" cy="146" r="2" fill="#69E0FF" opacity="0.7"/>
+  <g opacity="0.7">
+    <path d="M420 220c6-22 22-36 42-38 18-2 34 8 42 24 5 10 7 22 4 33-5 19-22 33-41 36-18 3-36-5-45-20-5-8-6-17-2-25Z" fill="#4DAEFF"/>
+    <path d="M460 236c34-12 78-12 116 0" stroke="#5B84FF" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(760 60)">
+    <rect x="0" y="0" width="340" height="220" rx="30" fill="#0F1626" stroke="#23314A" stroke-width="2"/>
+    <path d="M30 45h70" stroke="#69E0FF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M30 74h104" stroke="#6A5ACD" stroke-width="2" stroke-linecap="round"/>
+    <path d="M30 102h68" stroke="#7F9AFF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M30 130h142" stroke="#8CCDF9" stroke-width="2" stroke-linecap="round"/>
+    <path d="M30 158h92" stroke="#5B84FF" stroke-width="2" stroke-linecap="round"/>
+    <text x="24" y="210" fill="#8892B0" font-family="Consolas, monospace" font-size="16">system> /usr/bin/mission</text>
+  </g>
+  <text x="72" y="120" fill="url(#accent)" font-family="Consolas, monospace" font-size="46" letter-spacing="2">ARTHUR DUARTE</text>
+  <text x="72" y="176" fill="#E8EEF6" font-family="Consolas, monospace" font-size="18" letter-spacing="0.18">Why not you?</text>
+  <text x="72" y="216" fill="#7A8BAE" font-family="Consolas, monospace" font-size="14">Software Engineering Student · Cybersecurity Enthusiast</text>
+  <g filter="url(#glow)" opacity="0.2">
+    <path d="M96 246c28-30 76-38 110-18 28 16 42 50 29 80-15 36-48 50-84 42-25-5-46-24-55-50-4-12-2-24 0-35Z" fill="#69E0FF"/>
+  </g>
+  <path d="M92 256c44-36 112-38 156-4" stroke="#5B84FF" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+  <g transform="translate(244 228)">
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#5B84FF" stroke-width="2" opacity="0.5"/>
+    <path d="M-18 -22c12-18 34-24 54-16" stroke="#8CCDF9" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M18 24c-8 14-28 18-44 10" stroke="#6A5ACD" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="6" fill="#69E0FF"/>
+  </g>
+</svg>

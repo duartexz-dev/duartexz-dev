@@ -1,0 +1,20 @@
+<svg width="540" height="280" viewBox="0 0 540 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="280" rx="26" fill="#08101A" stroke="#1F2937" stroke-width="1.5"/>
+  <rect x="28" y="28" width="484" height="140" rx="18" fill="#0B1520"/>
+  <text x="42" y="62" fill="#F8FAFC" font-family="Consolas, monospace" font-size="20" font-weight="700">Coffee.news</text>
+  <text x="42" y="96" fill="#94A3B8" font-family="Consolas, monospace" font-size="14">News engine built for fast reading and reliable data flow.</text>
+  <text x="42" y="138" fill="#A5B4FC" font-family="Consolas, monospace" font-size="14">Tech: Vite · REST APIs · CSS Grid · JS modules</text>
+  <g transform="translate(42 170)">
+    <rect x="0" y="0" width="88" height="22" rx="12" fill="#0F172A" stroke="#334155"/>
+    <text x="12" y="15" fill="#93C5FD" font-family="Consolas, monospace" font-size="12">JavaScript</text>
+    <rect x="106" y="0" width="78" height="22" rx="12" fill="#0F172A" stroke="#334155"/>
+    <text x="116" y="15" fill="#C4B5FD" font-family="Consolas, monospace" font-size="12">Vite</text>
+    <rect x="198" y="0" width="86" height="22" rx="12" fill="#0F172A" stroke="#334155"/>
+    <text x="210" y="15" fill="#7DD3FC" font-family="Consolas, monospace" font-size="12">APIs</text>
+  </g>
+  <text x="42" y="232" fill="#E2E8F0" font-family="Consolas, monospace" font-size="13">⭐ 42 · Forks 9</text>
+  <rect x="42" y="248" width="86" height="28" rx="14" fill="#5B84FF"/>
+  <text x="68" y="266" fill="#F8FAFC" font-family="Consolas, monospace" font-size="13">Demo</text>
+  <rect x="140" y="248" width="86" height="28" rx="14" fill="#6A5ACD"/>
+  <text x="166" y="266" fill="#F8FAFC" font-family="Consolas, monospace" font-size="13">Code</text>
+</svg>
