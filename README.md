@@ -1,136 +1,128 @@
-﻿<!--
-  Arthur Duarte — GitHub profile
-  Dark, minimalist, professional.
--->
+﻿# Hi 👋, I'm Arthur Duarte
 
-<div align="center">
-  <img src="assets/banner.png" alt="Arthur Duarte profile banner" width="100%" />
-</div>
+🚀 **Full Stack Developer in Progress | JavaScript & Python Enthusiast**  
+🇧🇷 Brazil
 
-<div align="center" style="margin: 32px 0 24px;">
-  <img src="assets/typing.svg" alt="Typing animation for Arthur Duarte profile" width="100%" style="max-width: 900px;" />
-</div>
+I'm passionate about technology, software development, and creating modern web applications.
 
-<div align="center" style="margin-bottom: 40px;">
-  <img src="assets/coffee.gif" alt="Coffee GIF" width="320" />
-</div>
+Currently focused on **JavaScript, React, Python, REST APIs, and Software Engineering**, always improving my skills through real-world projects and continuous learning.
 
-## Hero Section
+My goal is to become a **Software Engineer**, building scalable applications, writing clean code, and creating products that make a real impact.
 
-> Software Engineering student with a disciplined approach to building meaningful software and learning Cybersecurity in parallel.
+---
 
-## Mission Control
+## 🌐 Where to find me
 
-```text
-+-----------------------------------------------------------+
-|                       MISSION CONTROL                     |
-|-----------------------------------------------------------|
-| Name              : Arthur Duarte                        |
-| Status            : Building strong software systems      |
-| Mission           : Become a Software Engineer            |
-| Current Focus     : JavaScript · Python · React · REST APIs |
-| Programming Since : June 2025                             |
-| Coffee Level      : Steady, focused, engineering fuel     |
-| Current Project   : Coffee.news                           |
-+-----------------------------------------------------------+
-```
+<p align="left">
+  <a href="https://github.com/duartexz-dev">
+    <img src="https://img.shields.io/badge/GitHub-DUARTEXZ--DEV-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-## About Me
+---
 
-I started programming in June 2025 and I learn by building projects that matter. I enjoy understanding software at a system level and I approach each task as an opportunity to improve engineering judgment. My goal is to become a Software Engineer, with a strong interest in Cybersecurity and real-world applications.
+## 🧠 What I do
 
-## Engineering Mindset
+- 💻 Full Stack Web Development
+- ⚡ JavaScript Applications
+- 🌐 REST API Integration
+- 🎨 Responsive UI/UX Design
+- 🧩 Clean & Organized Code
+- 📱 Interactive Web Interfaces
+- 🚀 Personal Projects & Open Source
+- 📚 Software Engineering Student
 
-- Build before consuming.
-- Think in systems, not isolated features.
-- Quality over quantity.
-- Never stop learning.
-- Architecture matters at every step.
-- Solve real problems with clear, reliable solutions.
+---
 
-## Current Mission
+## 🛠️ Tech Stack
 
-**Mission**  
-Become a Software Engineer.
+### Frontend
 
-**Current Focus**  
-JavaScript · Python · React · REST APIs · Software Engineering · Cybersecurity · AI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-## Tech Stack
+### Backend
 
-### Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-101820?style=for-the-badge&logo=javascript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python&logoColor=white)  
-![C%23](https://img.shields.io/badge/C%23-101820?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
 
-### Frameworks  
-![React](https://img.shields.io/badge/React-101820?style=for-the-badge&logo=react&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-101820?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-101820?style=for-the-badge&logo=vite&logoColor=white)
+### Database
 
-### Tools  
-![Git](https://img.shields.io/badge/Git-101820?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-101820?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-101820?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-FCC624?style=for-the-badge)
 
-### Learning  
-![AI](https://img.shields.io/badge/AI-101820?style=for-the-badge&logo=openai&logoColor=white)  
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-101820?style=for-the-badge&logo=owasp&logoColor=white)  
-![Architecture](https://img.shields.io/badge/Architecture-101820?style=for-the-badge&logo=linux&logoColor=white)
+### Tools & Technologies
 
-### Future  
-![TypeScript](https://img.shields.io/badge/TypeScript-101820?style=for-the-badge&logo=typescript&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-101820?style=for-the-badge&logo=rust&logoColor=white)  
-![Cloud](https://img.shields.io/badge/Cloud-101820?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
-## GitHub Analytics
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=52e5ff&text_color=bfc9db" alt="GitHub Stats" width="100%" style="max-width: 920px; border-radius: 22px;" />
-</div>
+## 📌 Featured Projects
 
-<div align="center" style="margin-top: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexz-dev&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bfc9db" alt="Top Languages" width="100%" style="max-width: 920px; border-radius: 22px;" />
-</div>
+- ☕ **Coffee.news** — Modern news platform powered by APIs.
+- 📋 **DevTask** — Productivity and task management application.
+- 🎯 **Focus** — Personal productivity platform.
+- 💰 **Nexus Pay** — Investment and financial simulation dashboard.
+- 📚 **CodeFlow** — Programming learning platform.
+- 👨‍💻 **Perfil-Stacks** — Interactive developer portfolio.
 
-<div align="center" style="margin-top: 16px; display: grid; gap: 16px; max-width: 920px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=duartexz-dev&theme=dracula&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" style="border-radius: 22px; background: #0d1117;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duartexz-dev&theme=dracula&hide_border=true&background=0d1117&stroke=52e5ff&ring=6c7cff&fire=ff79c6&currStreakNum=ffffff" alt="GitHub Streak" width="100%" style="border-radius: 22px; background: #0d1117;" />
-  <img src="https://raw.githubusercontent.com/duartexz-dev/duartexz-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" style="border-radius: 22px; background: #0d1117;" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=duartexz-dev&theme=dracula&hide_border=true&bg_color=0d1117&color=52e5ff&line=52e5ff&area_color=101523" alt="Activity Graph" width="100%" style="border-radius: 22px; background: #0d1117;" />
-</div>
+---
 
-## Projects
+## 📊 GitHub Stats
 
-### Coffee.news
-![Coffee.news](assets/project-coffee-news.svg)
-Modular news engine built for speed, clear structure, and stable data flow.  
-**Stack:** Vite · REST APIs · JavaScript  
-[Repo](https://github.com/duartexz-dev/coffee.news) · [Demo](https://duartexz-dev.github.io/coffee.news)
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexz-dev&layout=compact&theme=tokyonight" />
+</p>
 
-### Focus
-![Focus](assets/project-focus.svg)
-A productivity system designed for attention, context, and disciplined flow.  
-**Stack:** React · Architecture · UX flow  
-[Repo](https://github.com/duartexz-dev/focus) · [Demo](https://duartexz-dev.github.io/focus)
+---
 
-### CodeFlow
-![CodeFlow](assets/project-codeflow.svg)
-A clean interface for data flow, modules and fast decision paths.  
-**Stack:** HTML · CSS · JavaScript · REST  
-[Repo](https://github.com/duartexz-dev/codeflow) · [Demo](https://duartexz-dev.github.io/codeflow)
+## 🎯 Currently Learning
 
-<div align="center" style="margin-top: 24px;">
-  <a href="https://github.com/duartexz-dev?tab=repositories" style="display:inline-block; padding: 14px 30px; border-radius: 18px; background: #111820; color: #E8EEF6; text-decoration: none; font-family: Consolas, monospace; font-size: 13px; letter-spacing: 0.6px;">View all repositories</a>
-</div>
+- ⚛️ React
+- 🐍 Python
+- 🌐 REST APIs
+- 📦 Node.js
+- 🏗️ Software Engineering
+- 🧠 Data Structures & Algorithms
+- 🗄️ Databases
+- 🔧 Git & GitHub
 
-## Contact
+---
 
-<div align="center" style="display: inline-flex; gap: 12px; flex-wrap: wrap; justify-content: center; margin-top: 16px;">
-  <a href="https://github.com/duartexz-dev" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none; color:#E8EEF6; font-family:Consolas, monospace; font-size:13px; background:#0D1117; padding:10px 14px; border-radius:14px; border:1px solid #111820;">GitHub</a>
-  <span style="display:inline-flex; align-items:center; gap:8px; color:#8C9DB8; font-family:Consolas, monospace; font-size:13px; background:#0D1117; padding:10px 14px; border-radius:14px; border:1px solid #111820;">Discord · arthur#9999</span>
-</div>
+## 🚀 Goals
 
-## Footer
+- 💼 Become a Software Engineer
+- 🌍 Build impactful web applications
+- 📈 Contribute to Open Source
+- 🧠 Master Full Stack Development
+- ☁️ Learn Cloud Computing
+- 🏗️ Develop scalable SaaS products
 
-<div align="center" style="color:#8C9DB8; font-family:Consolas, monospace; font-size:13px; margin-top: 28px;">Why not you? · Obrigado pela visita 🚀</div>
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duartexz-dev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> **"Every line of code is another step toward becoming the engineer I aspire to be."**
+
+---
+
+⭐ Feel free to explore my repositories and follow my journey as I continue learning, building, and sharing projects with the developer community.
