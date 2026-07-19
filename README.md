@@ -1,13 +1,13 @@
 ﻿# Hi 👋, I'm Arthur Duarte
 
-🚀 **Full Stack Developer in Progress | JavaScript & Python Enthusiast**  
+💻 **Front-End Developer | JavaScript Developer**  
 🇧🇷 Brazil
 
-I'm passionate about technology, software development, and creating modern web applications.
+I'm a developer passionate about technology and software development.
 
-Currently focused on **JavaScript, React, Python, REST APIs, and Software Engineering**, always improving my skills through real-world projects and continuous learning.
+Currently focused on **JavaScript, React, Python, APIs and Software Engineering**, creating real projects to improve my skills and build modern applications.
 
-My goal is to become a **Software Engineer**, building scalable applications, writing clean code, and creating products that make a real impact.
+I enjoy learning new technologies, solving problems and turning ideas into functional applications.
 
 ---
 
@@ -23,20 +23,20 @@ My goal is to become a **Software Engineer**, building scalable applications, wr
 
 ## 🧠 What I do
 
-- 💻 Full Stack Web Development
+- 💻 Front-End Development
 - ⚡ JavaScript Applications
-- 🌐 REST API Integration
-- 🎨 Responsive UI/UX Design
-- 🧩 Clean & Organized Code
-- 📱 Interactive Web Interfaces
-- 🚀 Personal Projects & Open Source
-- 📚 Software Engineering Student
+- ⚛️ React Interfaces
+- 🌐 API Integration
+- 🎨 Responsive Web Design
+- 🧩 Clean Code Organization
+- 🚀 Building personal projects
+- 📚 Studying Software Engineering
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
+## Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,85 +44,105 @@ My goal is to become a **Software Engineer**, building scalable applications, wr
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-### Backend
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+## Backend & APIs
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
 
-### Database
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![LocalStorage](https://img.shields.io/badge/LocalStorage-FCC624?style=for-the-badge)
-
-### Tools & Technologies
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-- ☕ **Coffee.news** — Modern news platform powered by APIs.
-- 📋 **DevTask** — Productivity and task management application.
-- 🎯 **Focus** — Personal productivity platform.
-- 💰 **Nexus Pay** — Investment and financial simulation dashboard.
-- 📚 **CodeFlow** — Programming learning platform.
-- 👨‍💻 **Perfil-Stacks** — Interactive developer portfolio.
+☕ **Coffee.news**  
+News platform using external APIs.
+
+🎯 **Focus**  
+Productivity platform with task management.
+
+📋 **DevTask**  
+Task organization application.
+
+💰 **Nexus Pay**  
+Financial simulation platform.
+
+📚 **CodeFlow**  
+Programming learning platform.
+
+👨‍💻 **Perfil-Stacks**  
+Developer portfolio project.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexz-dev&layout=compact&theme=tokyonight" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=duartexz-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=duartexz-dev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Currently Learning
+# 📚 Currently Learning
 
 - ⚛️ React
 - 🐍 Python
-- 🌐 REST APIs
+- 🌐 APIs
 - 📦 Node.js
 - 🏗️ Software Engineering
-- 🧠 Data Structures & Algorithms
+- 🧠 Programming Logic
 - 🗄️ Databases
 - 🔧 Git & GitHub
 
 ---
 
-## 🚀 Goals
+# 🎯 Goals
 
-- 💼 Become a Software Engineer
-- 🌍 Build impactful web applications
-- 📈 Contribute to Open Source
-- 🧠 Master Full Stack Development
-- ☁️ Learn Cloud Computing
-- 🏗️ Develop scalable SaaS products
+🚀 Become a Software Engineer
+
+🌎 Build useful applications
+
+📈 Improve my programming skills every day
+
+🏗️ Create scalable projects
+
+🤝 Contribute with the developer community
 
 ---
 
-## 📈 GitHub Activity
+# 💻 My Coding Journey
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duartexz-dev&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duartexz-dev&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🚀 Philosophy
+# 🚀 Philosophy
 
-> **"Every line of code is another step toward becoming the engineer I aspire to be."**
+> "Every project is a step closer to becoming the developer I want to be."
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey as I continue learning, building, and sharing projects with the developer community.
+⭐ Explore my repositories and follow my journey building projects with code.
