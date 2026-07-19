@@ -1,50 +1,72 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#05060B"/>
-      <stop offset="100%" stop-color="#0A101B"/>
+    <radialGradient id="sky" cx="50%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#10151D"/>
+      <stop offset="100%" stop-color="#05080E"/>
+    </radialGradient>
+    <radialGradient id="planetGlow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#5B84FF" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#050A12" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="planet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#141C28"/>
+      <stop offset="100%" stop-color="#070B12"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#5B84FF"/>
-      <stop offset="100%" stop-color="#69E0FF"/>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#10161F"/>
+      <stop offset="100%" stop-color="#090F14"/>
     </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="18" result="blur"/>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-  <rect width="1200" height="360" rx="32" fill="url(#bg)"/>
-  <circle cx="196" cy="96" r="3" fill="#6A5ACD" opacity="0.92"/>
-  <circle cx="264" cy="64" r="2" fill="#8CCDF9" opacity="0.86"/>
-  <circle cx="1080" cy="52" r="2" fill="#5B84FF" opacity="0.8"/>
-  <circle cx="952" cy="146" r="2" fill="#69E0FF" opacity="0.7"/>
-  <g opacity="0.7">
-    <path d="M420 220c6-22 22-36 42-38 18-2 34 8 42 24 5 10 7 22 4 33-5 19-22 33-41 36-18 3-36-5-45-20-5-8-6-17-2-25Z" fill="#4DAEFF"/>
-    <path d="M460 236c34-12 78-12 116 0" stroke="#5B84FF" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <g opacity="0.37">
+    <circle cx="96" cy="56" r="2" fill="#6A8CFF"/>
+    <circle cx="214" cy="104" r="1.6" fill="#7EA8FF"/>
+    <circle cx="336" cy="72" r="1.6" fill="#5FC0FF"/>
+    <circle cx="548" cy="36" r="1.8" fill="#5A8BFF"/>
+    <circle cx="1100" cy="96" r="2" fill="#649BFF"/>
+    <circle cx="968" cy="40" r="1.6" fill="#7C9DFE"/>
+    <circle cx="770" cy="148" r="1.8" fill="#5B8EFF"/>
   </g>
-  <g transform="translate(760 60)">
-    <rect x="0" y="0" width="340" height="220" rx="30" fill="#0F1626" stroke="#23314A" stroke-width="2"/>
-    <path d="M30 45h70" stroke="#69E0FF" stroke-width="2" stroke-linecap="round"/>
-    <path d="M30 74h104" stroke="#6A5ACD" stroke-width="2" stroke-linecap="round"/>
-    <path d="M30 102h68" stroke="#7F9AFF" stroke-width="2" stroke-linecap="round"/>
-    <path d="M30 130h142" stroke="#8CCDF9" stroke-width="2" stroke-linecap="round"/>
-    <path d="M30 158h92" stroke="#5B84FF" stroke-width="2" stroke-linecap="round"/>
-    <text x="24" y="210" fill="#8892B0" font-family="Consolas, monospace" font-size="16">system> /usr/bin/mission</text>
+  <circle cx="916" cy="98" r="134" fill="url(#planet)"/>
+  <circle cx="916" cy="98" r="134" fill="url(#planetGlow)" filter="url(#softGlow)"/>
+  <circle cx="892" cy="82" r="112" fill="none" stroke="#2D4FA1" stroke-width="1.5" opacity="0.32"/>
+  <circle cx="870" cy="64" r="70" fill="none" stroke="#4B77FF" stroke-width="1" opacity="0.2"/>
+  <path d="M0 300 C140 258 260 238 460 274 C620 296 780 250 900 296 C980 322 1200 278 1200 360 L0 360 Z" fill="url(#surface)"/>
+  <path d="M104 312 C222 284 342 296 452 322 C580 350 702 332 828 356 C930 374 1110 324 1200 342 L1200 360 L0 360 Z" fill="#090D13" opacity="0.94"/>
+  <g transform="translate(238 182)">
+    <circle cx="0" cy="0" r="6" fill="#5B84FF" opacity="0.8"/>
+    <circle cx="38" cy="-12" r="3" fill="#7AB0FF" opacity="0.8"/>
+    <circle cx="-42" cy="-8" r="2" fill="#6BC4FF" opacity="0.8"/>
   </g>
-  <text x="72" y="120" fill="url(#accent)" font-family="Consolas, monospace" font-size="46" letter-spacing="2">ARTHUR DUARTE</text>
-  <text x="72" y="176" fill="#E8EEF6" font-family="Consolas, monospace" font-size="18" letter-spacing="0.18">Why not you?</text>
-  <text x="72" y="216" fill="#7A8BAE" font-family="Consolas, monospace" font-size="14">Software Engineering Student · Cybersecurity Enthusiast</text>
-  <g filter="url(#glow)" opacity="0.2">
-    <path d="M96 246c28-30 76-38 110-18 28 16 42 50 29 80-15 36-48 50-84 42-25-5-46-24-55-50-4-12-2-24 0-35Z" fill="#69E0FF"/>
+  <g transform="translate(484 178)">
+    <path d="M0 0c30-22 80-18 110 12 22 22 26 56 14 84-14 32-42 54-76 56-28 2-54-14-68-38-18-30-16-70 20-94Z" fill="#0D1625"/>
+    <path d="M20 16c24-12 54-10 78 4 18 10 28 30 26 50-3 20-16 34-34 42-18 8-38 6-54-6-16-12-24-32-20-50 2-10 8-20 14-24Z" fill="#121C2A"/>
+    <path d="M24 18l-14 76 12 4 16-58 20 26 6-10-18-26z" fill="#1D2633" opacity="0.92"/>
+    <rect x="58" y="44" width="88" height="56" rx="16" fill="#0A111B" stroke="#283D56" stroke-width="1.4"/>
+    <path d="M62 62h80" stroke="#4FB4FF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M62 82h60" stroke="#5B7FFF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M62 102h72" stroke="#6EB0FF" stroke-width="2" stroke-linecap="round"/>
+    <rect x="48" y="98" width="24" height="20" rx="8" fill="#0D141F"/>
+    <rect x="134" y="108" width="16" height="14" rx="6" fill="#0F1720"/>
+    <path d="M72 118c18-12 48-6 64 8" stroke="#77BCFF" stroke-width="1.8" fill="none" opacity="0.88"/>
   </g>
-  <path d="M92 256c44-36 112-38 156-4" stroke="#5B84FF" stroke-width="2.4" fill="none" stroke-linecap="round"/>
-  <g transform="translate(244 228)">
-    <circle cx="0" cy="0" r="48" fill="none" stroke="#5B84FF" stroke-width="2" opacity="0.5"/>
-    <path d="M-18 -22c12-18 34-24 54-16" stroke="#8CCDF9" stroke-width="3" fill="none" stroke-linecap="round"/>
-    <path d="M18 24c-8 14-28 18-44 10" stroke="#6A5ACD" stroke-width="3" fill="none" stroke-linecap="round"/>
-    <circle cx="0" cy="0" r="6" fill="#69E0FF"/>
+  <path d="M500 260c18-18 48-22 76-18" stroke="#4E8CFF" stroke-width="1.3" opacity="0.5" fill="none"/>
+  <g transform="translate(518 170)">
+    <path d="M0 0c24-18 52-14 76 6" stroke="#5092FF" stroke-width="2" fill="none" opacity="0.7"/>
+    <circle cx="82" cy="-6" r="4" fill="#5B95FF" opacity="0.72"/>
   </g>
+  <g transform="translate(92 210)">
+    <rect x="0" y="0" width="280" height="10" rx="5" fill="#0B1220"/>
+    <rect x="12" y="24" width="260" height="8" rx="4" fill="#0D1321"/>
+    <rect x="8" y="44" width="140" height="8" rx="4" fill="#0D1321"/>
+  </g>
+  <text x="94" y="96" fill="#E8EEF6" font-family="Consolas, monospace" font-size="48" font-weight="700" letter-spacing="0.12">Arthur Duarte</text>
+  <text x="94" y="144" fill="#90A0BC" font-family="Consolas, monospace" font-size="20">Why not you?</text>
 </svg>

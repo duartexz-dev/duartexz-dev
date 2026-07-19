@@ -1,15 +1,15 @@
-<svg width="320" height="240" viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg">
+<svg width="260" height="220" viewBox="0 0 260 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="mugBody" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#11161E"/>
       <stop offset="100%" stop-color="#0A1018"/>
     </linearGradient>
     <linearGradient id="rim" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2E415B"/>
+      <stop offset="0%" stop-color="#3A4D6C"/>
       <stop offset="100%" stop-color="#0E1623"/>
     </linearGradient>
   </defs>
-  <rect width="320" height="240" rx="30" fill="#070B11"/>
+  <rect width="260" height="220" rx="30" fill="#070B11"/>
   <ellipse cx="132" cy="170" rx="86" ry="10" fill="#0E1320" opacity="0.8"/>
   <path d="M72 92c0-22 16-34 44-34h40c28 0 44 12 44 34v50c0 10-8 18-18 18H90c-10 0-18-8-18-18V92Z" fill="url(#mugBody)" stroke="#1B2533" stroke-width="1.8"/>
   <path d="M72 92c0-18 16-26 44-26h40c28 0 44 8 44 26" fill="none" stroke="url(#rim)" stroke-width="6"/>

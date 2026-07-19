@@ -1,0 +1,62 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070A11"/>
+      <stop offset="100%" stop-color="#0D1420"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5B84FF"/>
+      <stop offset="100%" stop-color="#52E5FF"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6A5ACD"/>
+      <stop offset="100%" stop-color="#52E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="32" fill="url(#bg)"/>
+  <g opacity="0.3">
+    <circle cx="112" cy="64" r="3" fill="#7AA7FF"/>
+    <circle cx="216" cy="46" r="2.5" fill="#5AD7FF"/>
+    <circle cx="1060" cy="112" r="2.5" fill="#6A5ACD"/>
+    <circle cx="860" cy="80" r="2.5" fill="#4AD5FF"/>
+    <circle cx="980" cy="258" r="2.5" fill="#8AC4FF"/>
+  </g>
+  <rect x="48" y="42" width="336" height="122" rx="22" fill="#0C1420" stroke="#1F2937" stroke-width="1.5"/>
+  <text x="68" y="76" fill="#E2E8F8" font-family="Consolas, monospace" font-size="18" font-weight="700">GitHub Stats</text>
+  <text x="68" y="100" fill="#90A0BF" font-family="Consolas, monospace" font-size="12">Engineering metrics snapshot</text>
+  <rect x="68" y="124" width="260" height="16" rx="8" fill="#171F2B"/>
+  <rect x="68" y="124" width="168" height="16" rx="8" fill="url(#bar)"/>
+  <text x="68" y="154" fill="#A0B0D0" font-family="Consolas, monospace" font-size="12">Active repos</text>
+  <text x="262" y="154" fill="#E2E8F8" font-family="Consolas, monospace" font-size="12">23</text>
+  <rect x="68" y="172" width="260" height="16" rx="8" fill="#171F2B"/>
+  <rect x="68" y="172" width="220" height="16" rx="8" fill="url(#bar)"/>
+  <text x="68" y="202" fill="#A0B0D0" font-family="Consolas, monospace" font-size="12">Contributions</text>
+  <text x="262" y="202" fill="#E2E8F8" font-family="Consolas, monospace" font-size="12">Weekly trend</text>
+  <rect x="408" y="42" width="336" height="122" rx="22" fill="#0C1420" stroke="#1F2937" stroke-width="1.5"/>
+  <text x="428" y="76" fill="#E2E8F8" font-family="Consolas, monospace" font-size="18" font-weight="700">Top Languages</text>
+  <text x="428" y="100" fill="#90A0BF" font-family="Consolas, monospace" font-size="12">Primary stack by usage</text>
+  <rect x="428" y="124" width="48" height="16" rx="8" fill="#E34F26"/>
+  <rect x="428" y="148" width="120" height="16" rx="8" fill="#F7DF1E"/>
+  <rect x="428" y="172" width="96" height="16" rx="8" fill="#3776AB"/>
+  <text x="486" y="136" fill="#E2E8F8" font-family="Consolas, monospace" font-size="12">HTML</text>
+  <text x="554" y="160" fill="#0F172A" font-family="Consolas, monospace" font-size="12">JavaScript</text>
+  <text x="518" y="184" fill="#E2E8F8" font-family="Consolas, monospace" font-size="12">Python</text>
+  <rect x="768" y="42" width="336" height="122" rx="22" fill="#0C1420" stroke="#1F2937" stroke-width="1.5"/>
+  <text x="788" y="76" fill="#E2E8F8" font-family="Consolas, monospace" font-size="18" font-weight="700">Streak & Trophies</text>
+  <text x="788" y="100" fill="#90A0BF" font-family="Consolas, monospace" font-size="12">Commit consistency and achievements</text>
+  <rect x="788" y="124" width="108" height="20" rx="10" fill="#1B293A"/>
+  <text x="808" y="139" fill="#52E5FF" font-family="Consolas, monospace" font-size="12">+ 12 days streak</text>
+  <rect x="908" y="124" width="108" height="20" rx="10" fill="#1B293A"/>
+  <text x="928" y="139" fill="#A88CFF" font-family="Consolas, monospace" font-size="12">3 trophies</text>
+  <rect x="48" y="190" width="1056" height="122" rx="22" fill="#0C1420" stroke="#1F2937" stroke-width="1.5"/>
+  <text x="68" y="224" fill="#E2E8F8" font-family="Consolas, monospace" font-size="18" font-weight="700">Activity Graph</text>
+  <text x="68" y="248" fill="#90A0BF" font-family="Consolas, monospace" font-size="12">Visual trace of recent contributions</text>
+  <path d="M68 278 C128 242 188 270 248 258 S368 282 428 246 S508 274 568 254 S628 264 688 238 S748 262 808 248 S868 272 928 256 S988 272 1048 248 S1108 275 1160 258" fill="none" stroke="#52E5FF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="68" cy="278" r="5" fill="#52E5FF"/>
+  <circle cx="248" cy="258" r="5" fill="#52E5FF"/>
+  <circle cx="428" cy="246" r="5" fill="#52E5FF"/>
+  <circle cx="608" cy="264" r="5" fill="#52E5FF"/>
+  <circle cx="788" cy="238" r="5" fill="#52E5FF"/>
+  <circle cx="968" cy="254" r="5" fill="#52E5FF"/>
+  <circle cx="1148" cy="258" r="5" fill="#52E5FF"/>
+</svg>
