@@ -67,6 +67,6 @@
     <rect x="12" y="24" width="260" height="8" rx="4" fill="#0D1321"/>
     <rect x="8" y="44" width="140" height="8" rx="4" fill="#0D1321"/>
   </g>
-  <text x="94" y="96" fill="#E8EEF6" font-family="Consolas, monospace" font-size="48" font-weight="700" letter-spacing="0.12">Arthur Duarte</text>
-  <text x="94" y="144" fill="#90A0BC" font-family="Consolas, monospace" font-size="20">Why not you?</text>
+  <text x="94" y="96" fill="#E8EEF6" font-family="Consolas, monospace" font-size="44" font-weight="700" letter-spacing="0.12">Arthur Duarte</text>
+  <text x="94" y="144" fill="#52E5FF" font-family="Consolas, monospace" font-size="20">Desenvolvedor Full-Stack em Progresso</text>
 </svg>

@@ -10,28 +10,25 @@
     </linearGradient>
   </defs>
   <rect width="760" height="220" rx="28" fill="url(#bg)" stroke="#1E2938" stroke-width="1.6"/>
-  <text x="42" y="48" fill="#8BA2C7" font-family="Consolas, monospace" font-size="16">$ run profile.stack</text>
-  <g font-family="Consolas, monospace" font-size="24" fill="#E2E8F0">
-    <text x="42" y="95" opacity="0">
-      <tspan>Arthur Duarte</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.4s" fill="freeze"/>
+  <text x="42" y="48" fill="#8BA2C7" font-family="Consolas, monospace" font-size="16">$ run profile.duartexz-dev</text>
+  <g font-family="Consolas, monospace" font-size="22" fill="#E2E8F0">
+    <text x="42" y="92" opacity="0">
+      <tspan fill="#52E5FF">❯ Arthur Duarte</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.3s" fill="freeze"/>
     </text>
-    <text x="42" y="135" opacity="0">
-      <tspan>Software Engineering Student</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.45s" begin="1.0s" fill="freeze"/>
+    <text x="42" y="130" opacity="0">
+      <tspan>Desenvolvedor Full-Stack em Progresso</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.8s" fill="freeze"/>
     </text>
-    <text x="42" y="175" opacity="0">
-      <tspan>Cybersecurity Enthusiast</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.45s" begin="1.6s" fill="freeze"/>
+    <text x="42" y="168" opacity="0">
+      <tspan fill="#94A3B8">Criando projetos com HTML, CSS &amp; JS desde Jun 2025</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.45s" begin="1.3s" fill="freeze"/>
     </text>
-    <text x="42" y="215" opacity="0">
-      <tspan>Why not you?</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.45s" begin="2.2s" fill="freeze"/>
+    <text x="42" y="202" opacity="0">
+      <tspan fill="#38BDF8">Focado em prática consistente, de verdade 🚀</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.45s" begin="1.8s" fill="freeze"/>
     </text>
   </g>
-  <rect x="42" y="192" width="12" height="24" rx="6" fill="#5B84FF" opacity="0.85">
-    <animate attributeName="x" values="42;54;42" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
   <g opacity="0.4">
     <circle cx="680" cy="46" r="2.5" fill="#5B84FF"/>
     <circle cx="718" cy="78" r="2.5" fill="#52E5FF"/>
