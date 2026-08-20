@@ -1,0 +1,107 @@
+<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dark HUD Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C14"/>
+      <stop offset="50%" stop-color="#0D1527"/>
+      <stop offset="100%" stop-color="#050810"/>
+    </linearGradient>
+
+    <!-- Accent Cyan Gradient -->
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#7000FF"/>
+    </linearGradient>
+
+    <!-- Glowing Blue Gradient -->
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.4"/>
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Card Background with Chamfered Corners -->
+  <rect width="900" height="280" rx="16" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="1.5"/>
+  <rect width="900" height="280" rx="16" fill="url(#grid)"/>
+
+  <!-- Top Decorative HUD Bar -->
+  <path d="M 20 0 L 220 0 L 240 20 L 660 20 L 680 0 L 880 0" stroke="url(#cyanGrad)" stroke-width="2" fill="none" filter="url(#glow)"/>
+  
+  <!-- Terminal Window Controls / Indicators -->
+  <circle cx="36" cy="34" r="5" fill="#EF4444"/>
+  <circle cx="52" cy="34" r="5" fill="#F59E0B"/>
+  <circle cx="68" cy="34" r="5" fill="#10B981"/>
+
+  <text x="95" y="38" fill="#64748B" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="12" font-weight="600" letter-spacing="1">
+    SYS_ID // DUARTEXZ-DEV-OS v2.5
+  </text>
+
+  <!-- Right Status Badge -->
+  <rect x="730" y="24" width="140" height="22" rx="4" fill="#0F172A" stroke="#00F0FF" stroke-width="0.8" stroke-opacity="0.6"/>
+  <circle cx="745" cy="35" r="3.5" fill="#00F0FF" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="758" y="40" fill="#00F0FF" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1">
+    SYSTEM ONLINE
+  </text>
+
+  <!-- Main Divider Line -->
+  <line x1="20" y1="56" x2="880" y2="56" stroke="#1E293B" stroke-width="1"/>
+
+  <!-- Core Content Title -->
+  <text x="40" y="115" fill="#F8FAFC" font-family="'JetBrains Mono', Consolas, monospace" font-size="40" font-weight="800" letter-spacing="2">
+    ARTHUR DUARTE
+  </text>
+
+  <!-- Subtitle Tagline -->
+  <text x="42" y="145" fill="url(#cyanGrad)" font-family="'JetBrains Mono', Consolas, monospace" font-size="16" font-weight="700" letter-spacing="1" filter="url(#glow)">
+    // FULL-STACK DEVELOPER IN PROGRESS
+  </text>
+
+  <!-- Console Log Code Line -->
+  <g transform="translate(40, 168)">
+    <rect width="820" height="38" rx="6" fill="#0B132B" stroke="#1D2D50" stroke-width="1"/>
+    <text x="16" y="24" fill="#38BDF8" font-family="'JetBrains Mono', Consolas, monospace" font-size="13">
+      duartexz-dev@system:~$ <tspan fill="#F1F5F9">exec --stack [HTML5, CSS3, JS, React, Python, Node, APIs]</tspan>
+    </text>
+    <rect x="730" y="10" width="8" height="18" fill="#00F0FF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- HUD Telemetry Stats Footer -->
+  <g transform="translate(40, 224)">
+    <text x="0" y="16" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">
+      START_DATE: <tspan fill="#38BDF8">JUN/2025</tspan>
+    </text>
+    <text x="190" y="16" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">
+      ROLE_TARGET: <tspan fill="#A855F7">SOFTWARE ENGINEER</tspan>
+    </text>
+    <text x="430" y="16" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">
+      METHODOLOGY: <tspan fill="#10B981">CONSISTENT PRACTICE</tspan>
+    </text>
+    <text x="690" y="16" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">
+      REGION: <tspan fill="#F59E0B">BRAZIL 🇧🇷</tspan>
+    </text>
+  </g>
+
+  <!-- Bottom Accent Corners -->
+  <path d="M 20 270 L 40 270" stroke="#00F0FF" stroke-width="2"/>
+  <path d="M 20 250 L 20 270" stroke="#00F0FF" stroke-width="2"/>
+  <path d="M 880 270 L 860 270" stroke="#00F0FF" stroke-width="2"/>
+  <path d="M 880 250 L 880 270" stroke="#00F0FF" stroke-width="2"/>
+</svg>
