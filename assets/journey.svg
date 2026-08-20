@@ -1,0 +1,98 @@
+<svg width="940" height="240" viewBox="0 0 940 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="journeyBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050812"/>
+      <stop offset="100%" stop-color="#020307"/>
+    </linearGradient>
+
+    <linearGradient id="axisGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="40%" stop-color="#38BDF8"/>
+      <stop offset="75%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+
+    <filter id="nodeGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="940" height="240" rx="12" fill="url(#journeyBg)" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Header -->
+  <text x="28" y="32" fill="#38BDF8" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.5">
+    🧭 DEVELOPER EVOLUTION EXECUTION TRACE
+  </text>
+  <line x1="24" y1="44" x2="916" y2="44" stroke="#1E293B" stroke-width="1"/>
+
+  <!-- Axis Line -->
+  <line x1="70" y1="135" x2="870" y2="135" stroke="url(#axisGrad)" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Node 1: JUN 2025 -->
+  <g transform="translate(90, 135)">
+    <circle cx="0" cy="0" r="10" fill="#0A0F1D" stroke="#00F0FF" stroke-width="2.5" filter="url(#nodeGlow)"/>
+    <circle cx="0" cy="0" r="4" fill="#00F0FF"/>
+    
+    <rect x="-70" y="-72" width="140" height="50" rx="6" fill="#0A1120" stroke="#1E293B"/>
+    <text x="-60" y="-52" fill="#00F0FF" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700">JUN / 2025</text>
+    <text x="-60" y="-36" fill="#94A3B8" font-family="'JetBrains Mono', Consolas, monospace" font-size="9">HTML, CSS &amp; JS Base</text>
+    <line x1="0" y1="-22" x2="0" y2="-10" stroke="#00F0FF" stroke-width="1.5"/>
+  </g>
+
+  <!-- Node 2: 2025.2 -->
+  <g transform="translate(280, 135)">
+    <circle cx="0" cy="0" r="10" fill="#0A0F1D" stroke="#38BDF8" stroke-width="2.5" filter="url(#nodeGlow)"/>
+    <circle cx="0" cy="0" r="4" fill="#38BDF8"/>
+    
+    <rect x="-70" y="22" width="140" height="50" rx="6" fill="#0A1120" stroke="#1E293B"/>
+    <text x="-60" y="42" fill="#38BDF8" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700">2º SEM / 2025</text>
+    <text x="-60" y="58" fill="#94A3B8" font-family="'JetBrains Mono', Consolas, monospace" font-size="9">Projetos Reais &amp; APIs</text>
+    <line x1="0" y1="10" x2="0" y2="22" stroke="#38BDF8" stroke-width="1.5"/>
+  </g>
+
+  <!-- Node 3: 2026.1 -->
+  <g transform="translate(470, 135)">
+    <circle cx="0" cy="0" r="10" fill="#0A0F1D" stroke="#818CF8" stroke-width="2.5" filter="url(#nodeGlow)"/>
+    <circle cx="0" cy="0" r="4" fill="#818CF8"/>
+    
+    <rect x="-70" y="-72" width="140" height="50" rx="6" fill="#0A1120" stroke="#1E293B"/>
+    <text x="-60" y="-52" fill="#818CF8" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700">2026.1</text>
+    <text x="-60" y="-36" fill="#94A3B8" font-family="'JetBrains Mono', Consolas, monospace" font-size="9">React &amp; Node.js Engine</text>
+    <line x1="0" y1="-22" x2="0" y2="-10" stroke="#818CF8" stroke-width="1.5"/>
+  </g>
+
+  <!-- Node 4: MID 2026 -->
+  <g transform="translate(660, 135)">
+    <circle cx="0" cy="0" r="10" fill="#0A0F1D" stroke="#A78BFA" stroke-width="2.5" filter="url(#nodeGlow)"/>
+    <circle cx="0" cy="0" r="4" fill="#A78BFA"/>
+    
+    <rect x="-70" y="22" width="140" height="50" rx="6" fill="#0A1120" stroke="#1E293B"/>
+    <text x="-60" y="42" fill="#A78BFA" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700">MID / 2026</text>
+    <text x="-60" y="58" fill="#94A3B8" font-family="'JetBrains Mono', Consolas, monospace" font-size="9">CodeFlow AI &amp; Python</text>
+    <line x1="0" y1="10" x2="0" y2="22" stroke="#A78BFA" stroke-width="1.5"/>
+  </g>
+
+  <!-- Node 5: TARGET -->
+  <g transform="translate(850, 135)">
+    <circle cx="0" cy="0" r="12" fill="#581C87" stroke="#EC4899" stroke-width="2.5" filter="url(#nodeGlow)">
+      <animate attributeName="r" values="12;14;12" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="5" fill="#EC4899"/>
+    
+    <rect x="-75" y="-72" width="150" height="50" rx="6" fill="#181024" stroke="#EC4899" stroke-width="1"/>
+    <text x="-65" y="-52" fill="#EC4899" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="800">TARGET GOAL</text>
+    <text x="-65" y="-36" fill="#F472B6" font-family="'JetBrains Mono', Consolas, monospace" font-size="9">Software Engineer 🚀</text>
+    <line x1="0" y1="-22" x2="0" y2="-10" stroke="#EC4899" stroke-width="1.5"/>
+  </g>
+
+  <!-- Log Footer -->
+  <rect x="24" y="200" width="892" height="24" rx="4" fill="#080D1A"/>
+  <text x="36" y="216" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="10">
+    LOG_STATUS: <tspan fill="#34D399">EXECUTION IN PROGRESS</tspan> | STEP: <tspan fill="#38BDF8">5/5 MILESTONE REACHABLE</tspan> | PRACTICE_RATE: <tspan fill="#F59E0B">CONSISTENT 100%</tspan>
+  </text>
+</svg>

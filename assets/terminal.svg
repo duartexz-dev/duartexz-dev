@@ -1,20 +1,12 @@
-<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
+<svg width="940" height="230" viewBox="0 0 940 230" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="80" y1="50" x2="720" y2="230" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#080C10"/>
-      <stop offset="0.5" stop-color="#10182A"/>
-      <stop offset="1" stop-color="#06080D"/>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050810"/>
+      <stop offset="100%" stop-color="#020306"/>
     </linearGradient>
-    <linearGradient id="accent" x1="120" y1="70" x2="640" y2="180" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#00FFFF">
-        <animate attributeName="stop-color" values="#00FFFF;#6A5ACD;#00FFFF" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="1" stop-color="#6A5ACD">
-        <animate attributeName="stop-color" values="#6A5ACD;#00FFFF;#6A5ACD" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <filter id="glow" x="-40" y="-40" width="880" height="360" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="10" result="blur"/>
+
+    <filter id="glowGreen" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -22,35 +14,75 @@
     </filter>
   </defs>
 
-  <rect x="8" y="8" width="784" height="264" rx="26" fill="url(#bg)"/>
-  <rect x="8" y="8" width="784" height="264" rx="26" stroke="#23314A" stroke-width="1.3"/>
+  <!-- Terminal Window Background -->
+  <rect width="940" height="230" rx="12" fill="url(#termBg)" stroke="#1E293B" stroke-width="1.5"/>
 
-  <g filter="url(#glow)" opacity="0.8">
-    <path d="M138 80c34-43 95-55 132-26 28 22 28 67 0 90-35 29-91 30-132 0-25-19-25-50 0-64Z" fill="#00FFFF" fill-opacity="0.10"/>
-    <path d="M616 178c42-49 108-59 152-30 34 23 44 74 17 108-29 36-86 48-130 30-42-17-60-63-39-108Z" fill="#6A5ACD" fill-opacity="0.12"/>
-    <path d="M520 78c20-20 46-24 72-12 20 10 33 35 28 58-6 28-29 44-56 44-26 0-50-12-61-38-9-26 2-49 17-52Z" fill="#00FFFF" fill-opacity="0.08"/>
+  <!-- Terminal Header Bar -->
+  <path d="M 0 0 H 940 V 34 H 0 Z" fill="#0A0F1D" rx="12"/>
+  <rect y="22" width="940" height="12" fill="#0A0F1D"/>
+  <line x1="0" y1="34" x2="940" y2="34" stroke="#1E293B" stroke-width="1"/>
+
+  <circle cx="28" cy="17" r="4.5" fill="#EF4444"/>
+  <circle cx="44" cy="17" r="4.5" fill="#F59E0B"/>
+  <circle cx="60" cy="17" r="4.5" fill="#10B981"/>
+
+  <text x="84" y="21" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600">
+    bash — duarte@duarte-os: ~/system/profile (telemetry.sh)
+  </text>
+
+  <!-- Command Input Line -->
+  <text x="24" y="58" fill="#38BDF8" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" font-weight="700">
+    duarte@system:~$ <tspan fill="#F8FAFC">./arthur --profile --telemetry</tspan>
+  </text>
+
+  <!-- Loaded Modules Output -->
+  <g font-family="'JetBrains Mono', Consolas, monospace" font-size="12" transform="translate(24, 72)">
+    <!-- Column 1 -->
+    <g transform="translate(0, 18)">
+      <text x="0" y="0" fill="#34D399" font-weight="700" filter="url(#glowGreen)">[OK]</text>
+      <text x="45" y="0" fill="#F1F5F9">JavaScript Core (ES6+ Engine)</text>
+    </g>
+
+    <g transform="translate(0, 40)">
+      <text x="0" y="0" fill="#34D399" font-weight="700" filter="url(#glowGreen)">[OK]</text>
+      <text x="45" y="0" fill="#F1F5F9">React.js (Modular UI Systems)</text>
+    </g>
+
+    <g transform="translate(0, 62)">
+      <text x="0" y="0" fill="#34D399" font-weight="700" filter="url(#glowGreen)">[OK]</text>
+      <text x="45" y="0" fill="#F1F5F9">REST APIs &amp; JSON Stream</text>
+    </g>
+
+    <g transform="translate(0, 84)">
+      <text x="0" y="0" fill="#34D399" font-weight="700" filter="url(#glowGreen)">[OK]</text>
+      <text x="45" y="0" fill="#F1F5F9">Git &amp; GitHub Workflows</text>
+    </g>
+
+    <!-- Column 2 -->
+    <g transform="translate(460, 18)">
+      <text x="0" y="0" fill="#F59E0B" font-weight="700">[LOAD]</text>
+      <text x="60" y="0" fill="#CBD5E1">Python (Automações &amp; Scripts)</text>
+    </g>
+
+    <g transform="translate(460, 40)">
+      <text x="0" y="0" fill="#F59E0B" font-weight="700">[LOAD]</text>
+      <text x="60" y="0" fill="#CBD5E1">Node.js (Backend Runtime)</text>
+    </g>
+
+    <g transform="translate(460, 62)">
+      <text x="0" y="0" fill="#F59E0B" font-weight="700">[LOAD]</text>
+      <text x="60" y="0" fill="#CBD5E1">Databases &amp; Data Modeling</text>
+    </g>
+
+    <g transform="translate(460, 84)">
+      <text x="0" y="0" fill="#A78BFA" font-weight="700">[TARGET]</text>
+      <text x="75" y="0" fill="#E2E8F0">Software Engineering State 🚀</text>
+    </g>
   </g>
 
-  <g fill="#00FFFF" fill-opacity="0.8">
-    <circle cx="140" cy="72" r="6"/>
-    <circle cx="166" cy="72" r="6"/>
-    <circle cx="192" cy="72" r="6"/>
-  </g>
-
-  <g transform="translate(120 86)" opacity="0.9">
-    <path d="M0 16h84" stroke="#00FFFF" stroke-width="2" stroke-linecap="round"/>
-    <path d="M0 40h122" stroke="#6A5ACD" stroke-width="2" stroke-linecap="round"/>
-    <animateTransform attributeName="transform" type="translate" values="120 86;132 90;120 86" dur="7s" repeatCount="indefinite"/>
-  </g>
-
-  <text x="74" y="128" fill="url(#accent)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="2">ARTHUR DUARTE</text>
-  <text x="74" y="162" fill="#E5ECF6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="500">advanced DOM • REST APIs • clean architecture</text>
-
-  <text x="74" y="198" fill="#708090" font-family="Consolas, monospace" font-size="14">
-    <tspan>const</tspan>
-    <tspan fill="#00FFFF"> signal</tspan>
-    <tspan> = </tspan>
-    <tspan fill="#6A5ACD">'neon logic'</tspan>
-    <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite"/>
+  <!-- Console Footer Line -->
+  <line x1="24" y1="184" x2="916" y2="184" stroke="#1E293B" stroke-width="1"/>
+  <text x="24" y="206" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">
+    [SYSTEM TELEMETRY READY] :: 4 MODULES ACTIVE // 3 IN PIPELINE // 0 CRITICAL FAILURES
   </text>
 </svg>

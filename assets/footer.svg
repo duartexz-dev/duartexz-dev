@@ -1,0 +1,40 @@
+<svg width="940" height="120" viewBox="0 0 940 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050812"/>
+      <stop offset="100%" stop-color="#020307"/>
+    </linearGradient>
+
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
+
+    <filter id="glowFooter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="940" height="120" rx="12" fill="url(#footerBg)" stroke="#1E293B" stroke-width="1.5"/>
+
+  <path d="M 20 0 L 160 0 L 175 16 L 765 16 L 780 0 L 920 0" stroke="url(#accentLine)" stroke-width="1.5" fill="none" filter="url(#glowFooter)"/>
+
+  <text x="470" y="48" text-anchor="middle" fill="#00F0FF" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2">
+    SYSTEM SHUTDOWN // SESSION COMPLETE
+  </text>
+
+  <text x="470" y="82" text-anchor="middle" fill="#F8FAFC" font-family="'JetBrains Mono', Consolas, monospace" font-size="16" font-weight="700" letter-spacing="1">
+    Obrigado pela visita 🚀
+  </text>
+
+  <!-- Corner Brackets -->
+  <path d="M 20 108 L 36 108" stroke="#00F0FF" stroke-width="1.5"/>
+  <path d="M 20 92 L 20 108" stroke="#00F0FF" stroke-width="1.5"/>
+  <path d="M 920 108 L 904 108" stroke="#00F0FF" stroke-width="1.5"/>
+  <path d="M 920 92 L 920 108" stroke="#00F0FF" stroke-width="1.5"/>
+</svg>

@@ -1,72 +1,116 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<svg width="940" height="300" viewBox="0 0 940 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient id="sky" cx="50%" cy="30%" r="75%">
-      <stop offset="0%" stop-color="#131A23"/>
-      <stop offset="100%" stop-color="#05070B"/>
-    </radialGradient>
-    <radialGradient id="planetGlow" cx="50%" cy="50%" r="55%">
-      <stop offset="0%" stop-color="#4E84FF" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#0B1123" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="planet" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1A2434"/>
-      <stop offset="100%" stop-color="#08101A"/>
+    <!-- Dark OS Deep Space Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060A"/>
+      <stop offset="40%" stop-color="#080D18"/>
+      <stop offset="100%" stop-color="#030408"/>
     </linearGradient>
-    <linearGradient id="moon" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#121821"/>
-      <stop offset="100%" stop-color="#090E15"/>
+
+    <!-- Accent Cyan Gradient -->
+    <linearGradient id="cyanAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
     </linearGradient>
-    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
+
+    <!-- Subtle Slate Gradient -->
+    <linearGradient id="slateGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <!-- Technical Grid Pattern -->
+    <pattern id="techGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E293B" stroke-width="0.5" stroke-opacity="0.35"/>
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-  <rect width="1200" height="360" fill="url(#sky)"/>
-  <g opacity="0.4">
-    <circle cx="94" cy="54" r="2" fill="#6BA7FF"/>
-    <circle cx="210" cy="102" r="1.5" fill="#84B8FF"/>
-    <circle cx="348" cy="76" r="1.5" fill="#86C2FF"/>
-    <circle cx="562" cy="34" r="1.8" fill="#5B8EFF"/>
-    <circle cx="1102" cy="90" r="2" fill="#5BA1FF"/>
-    <circle cx="968" cy="42" r="1.6" fill="#7DA9FF"/>
-    <circle cx="764" cy="148" r="1.8" fill="#739EFF"/>
+
+  <!-- Outer Card Frame -->
+  <rect width="940" height="300" rx="16" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="1.5"/>
+  <rect width="940" height="300" rx="16" fill="url(#techGrid)"/>
+
+  <!-- Subtle Deep Space Particle Accents -->
+  <g opacity="0.45">
+    <circle cx="120" cy="50" r="1" fill="#38BDF8"/>
+    <circle cx="280" cy="80" r="1.5" fill="#818CF8"/>
+    <circle cx="450" cy="35" r="1" fill="#00F0FF"/>
+    <circle cx="720" cy="65" r="1.2" fill="#A78BFA"/>
+    <circle cx="860" cy="40" r="1" fill="#38BDF8"/>
+    <circle cx="180" cy="240" r="1" fill="#818CF8"/>
+    <circle cx="680" cy="250" r="1.5" fill="#00F0FF"/>
   </g>
-  <circle cx="920" cy="100" r="134" fill="url(#planet)"/>
-  <circle cx="920" cy="100" r="134" fill="url(#planetGlow)" filter="url(#soft)"/>
-  <circle cx="896" cy="84" r="112" fill="none" stroke="#2C4EA8" stroke-width="1.6" opacity="0.35"/>
-  <circle cx="874" cy="66" r="72" fill="none" stroke="#4A78FF" stroke-width="0.9" opacity="0.23"/>
-  <path d="M0 300 C140 260 260 238 460 276 C620 300 780 256 900 298 C980 320 1200 278 1200 360 L0 360 Z" fill="url(#moon)"/>
-  <path d="M100 310 C220 280 340 292 452 318 C570 344 692 324 820 350 C920 372 1100 324 1200 340 L1200 360 L0 360 Z" fill="#0A1017" opacity="0.92"/>
-  <g transform="translate(242 182)">
-    <circle cx="0" cy="0" r="6" fill="#5B84FF" opacity="0.8"/>
-    <circle cx="38" cy="-12" r="3" fill="#84B8FF" opacity="0.8"/>
-    <circle cx="-42" cy="-8" r="2" fill="#6DB0FF" opacity="0.8"/>
+
+  <!-- Top HUD Bar & Window Controls -->
+  <path d="M 24 0 L 260 0 L 280 22 L 660 22 L 680 0 L 916 0" stroke="url(#cyanAccent)" stroke-width="2" fill="none" filter="url(#glow)"/>
+  
+  <circle cx="40" cy="36" r="5" fill="#EF4444"/>
+  <circle cx="56" cy="36" r="5" fill="#F59E0B"/>
+  <circle cx="72" cy="36" r="5" fill="#10B981"/>
+
+  <text x="100" y="40" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.5">
+    DUARTE.DEV // SYSTEM OS v3.5
+  </text>
+
+  <!-- Right Online Telemetry Badge -->
+  <rect x="764" y="24" width="140" height="24" rx="4" fill="#09101F" stroke="#00F0FF" stroke-width="0.8" stroke-opacity="0.6"/>
+  <circle cx="780" cy="36" r="3.5" fill="#00F0FF" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="794" y="41" fill="#00F0FF" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1">
+    SYSTEM ONLINE
+  </text>
+
+  <!-- Main Divider -->
+  <line x1="24" y1="60" x2="916" y2="60" stroke="#1E293B" stroke-width="1"/>
+
+  <!-- Center Title & System Core Tagline -->
+  <text x="44" y="118" fill="#F8FAFC" font-family="'JetBrains Mono', Consolas, monospace" font-size="38" font-weight="800" letter-spacing="2">
+    ARTHUR DUARTE
+  </text>
+
+  <text x="46" y="148" fill="url(#cyanAccent)" font-family="'JetBrains Mono', Consolas, monospace" font-size="16" font-weight="700" letter-spacing="1.2" filter="url(#glow)">
+    // SOFTWARE ENGINEERING STUDENT &amp; SYSTEM DEVELOPER
+  </text>
+
+  <!-- Console Execution Output Bar -->
+  <g transform="translate(44, 172)">
+    <rect width="852" height="42" rx="6" fill="#080E1C" stroke="#1E293B" stroke-width="1"/>
+    <text x="18" y="26" fill="#38BDF8" font-family="'JetBrains Mono', Consolas, monospace" font-size="13">
+      duarte@system:~$ <tspan fill="#F1F5F9">exec --mode building --target software-engineer --stack [JS, React, Python, APIs]</tspan>
+    </text>
+    <rect x="785" y="12" width="8" height="18" fill="#00F0FF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
   </g>
-  <g transform="translate(485 178)">
-    <path d="M0 0c30-22 80-18 110 12 22 22 26 56 14 84-14 32-42 54-76 56-28 2-54-14-68-38-18-30-16-70 20-94Z" fill="#0D1625"/>
-    <path d="M20 16c24-12 54-10 78 4 18 10 28 30 26 50-3 20-16 34-34 42-18 8-38 6-54-6-16-12-24-32-20-50 2-10 8-20 14-24Z" fill="#131B2F"/>
-    <path d="M24 18l-14 76 12 4 16-58 20 26 6-10-18-26z" fill="#1C2737" opacity="0.92"/>
-    <rect x="58" y="44" width="88" height="56" rx="16" fill="#0A111B" stroke="#2A405D" stroke-width="1.4"/>
-    <path d="M62 62h80" stroke="#4FB4FF" stroke-width="2" stroke-linecap="round"/>
-    <path d="M62 82h60" stroke="#5B7FFF" stroke-width="2" stroke-linecap="round"/>
-    <path d="M62 102h72" stroke="#6EB0FF" stroke-width="2" stroke-linecap="round"/>
-    <rect x="48" y="98" width="24" height="20" rx="8" fill="#0D141F"/>
-    <rect x="134" y="108" width="16" height="14" rx="6" fill="#0F1720"/>
-    <path d="M72 118c18-12 48-6 64 8" stroke="#77BCFF" stroke-width="1.8" fill="none" opacity="0.9"/>
+
+  <!-- HUD Telemetry Stats Bar -->
+  <g transform="translate(44, 238)">
+    <text x="0" y="16" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">
+      START: <tspan fill="#38BDF8">JUN/2025</tspan>
+    </text>
+    <text x="170" y="16" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">
+      TARGET: <tspan fill="#A78BFA">SOFTWARE ENGINEER</tspan>
+    </text>
+    <text x="410" y="16" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">
+      METHOD: <tspan fill="#34D399">BUILDING REAL SYSTEMS</tspan>
+    </text>
+    <text x="700" y="16" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">
+      REGION: <tspan fill="#F59E0B">BRASIL 🇧🇷</tspan>
+    </text>
   </g>
-  <path d="M500 260c18-18 48-22 76-18" stroke="#4D8BFF" stroke-width="1.3" opacity="0.5" fill="none"/>
-  <g transform="translate(520 170)">
-    <path d="M0 0c24-18 52-14 76 6" stroke="#4F92FF" stroke-width="2" fill="none" opacity="0.7"/>
-    <circle cx="82" cy="-6" r="4" fill="#5B95FF" opacity="0.72"/>
-  </g>
-  <g transform="translate(92 210)">
-    <rect x="0" y="0" width="280" height="10" rx="5" fill="#0C1220"/>
-    <rect x="12" y="24" width="260" height="8" rx="4" fill="#0D1321"/>
-    <rect x="8" y="44" width="140" height="8" rx="4" fill="#0D1321"/>
-  </g>
-  <text x="94" y="96" fill="#E8EEF6" font-family="Consolas, monospace" font-size="44" font-weight="700" letter-spacing="0.12">Arthur Duarte</text>
-  <text x="94" y="144" fill="#52E5FF" font-family="Consolas, monospace" font-size="20">Desenvolvedor Full-Stack em Progresso</text>
+
+  <!-- HUD Corner Bracket Accents -->
+  <path d="M 24 286 L 44 286" stroke="#00F0FF" stroke-width="2"/>
+  <path d="M 24 266 L 24 286" stroke="#00F0FF" stroke-width="2"/>
+  <path d="M 916 286 L 896 286" stroke="#00F0FF" stroke-width="2"/>
+  <path d="M 916 266 L 916 286" stroke="#00F0FF" stroke-width="2"/>
 </svg>
