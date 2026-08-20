@@ -163,20 +163,41 @@ Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexz-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es_no_Último_Ano-178+-00F0FF?style=for-the-badge&logo=github&logoColor=white" alt="Contribuições no último ano" />
+  <img src="https://img.shields.io/badge/Status-Ativo_%26_Consistente-34D399?style=for-the-badge&logo=git&logoColor=white" alt="Status de Atividade" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duartexz-dev&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições (Streak)" />
+  <a href="https://github.com/duartexz-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do GitHub" width="49%" />
+  </a>
+  <a href="https://github.com/duartexz-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexz-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" width="48%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duartexz-dev&theme=tokyo-night&hide_border=true" alt="Gráfico de Atividades" />
+  <a href="https://github.com/duartexz-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=duartexz-dev&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições (Streak)" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duartexz-dev&theme=tokyonight" alt="Resumo do Perfil" />
+  <a href="https://github.com/duartexz-dev">
+    <img src="https://github-profile-trophy.vercel.app/?username=duartexz-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Troféus do GitHub" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/duartexz-dev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=duartexz-dev&theme=tokyo-night&hide_border=true" alt="Gráfico de Atividades" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/duartexz-dev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duartexz-dev&theme=tokyonight" alt="Resumo do Perfil" width="100%" />
+  </a>
 </p>
 
 ---
