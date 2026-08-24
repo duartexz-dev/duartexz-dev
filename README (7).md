@@ -25,12 +25,12 @@ Direção: **Software Engineering**, com curiosidade crescente por **cybersecuri
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 </div>
 
@@ -98,10 +98,26 @@ Plataforma de produtividade construída com HTML, CSS, JavaScript e Bootstrap, p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=duartexz-dev&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=3ea6ff&icon_color=3ea6ff&text_color=ffffff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexz-dev&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=3ea6ff&text_color=ffffff" width="49%" />
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=duartexz-dev&theme=react-dark&bg_color=00000000&color=3ea6ff&line=3ea6ff&point=ffffff&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
+
+![Code.Flow](./profile/pin-codeflow.svg)
+![NexusPay](./profile/pin-nexuspay.svg)
+![Focus](./profile/pin-focus.svg)
+
+</div>
+
+<br>
+
+## `>` contribution snake
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/duartexz-dev/duartexz-dev/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -110,19 +126,29 @@ Plataforma de produtividade construída com HTML, CSS, JavaScript e Bootstrap, p
 ## `>` status
 
 ```
-BUILDING     — construindo projetos, um de cada vez
-LEARNING     — JavaScript, Python, React
+BUILDING      — construindo projetos, um de cada vez
+LEARNING      — JavaScript, Python, React
 EXPERIMENTING — usando IA como ferramenta, não como atalho
 ```
 
 <br>
 
+## `>` connect
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duartexz-dev)
+<a href="https://github.com/duartexz-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br><br>
+<!-- adicione aqui outros badges reais seus, ex:
+<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/seu-usuario"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+-->
 
+</div>
+
+<br>
+
+<div align="center">
 <sub>WHY NOT YOU?</sub>
-
 </div>
