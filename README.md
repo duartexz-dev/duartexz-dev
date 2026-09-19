@@ -19,7 +19,6 @@
 
 ---
 
-<img src="./assets/github-contributions.svg" width="888" alt="GitHub Contributions">
 <br>
 ## About
 
