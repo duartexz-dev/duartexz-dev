@@ -4,12 +4,23 @@
 
 **Designer · Programming Student · Aspiring Software Engineer**
 
-[GitHub](https://github.com/duartexz-dev) · [Instagram](https://instagram.com/duartexz.dev) · [YouTube](SEU_LINK)
+
+<div align="center">
+  <a href="https://github.com/duartexz-dev">
+    <img
+      src="https://ghchart.xqsit94.in/dark:26a641/duartexz-dev"
+      alt="GitHub Contributions — duartexz-dev"
+      width="888"
+    />
+  </a>
+</div>
 
 </div>
 
 ---
 
+<img src="./assets/github-contributions.svg" width="888" alt="GitHub Contributions">
+<br>
 ## About
 
 I’m Arthur Duarte, a designer and programming student focused on web development and software engineering.
