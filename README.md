@@ -67,12 +67,6 @@ Programming · Web Development · React.js · Python · Java
 
 **Long-term**
 
-Software Engineering · Computer Science · Cybersecurity
+Software Engineering · Computer Science · designer
 
 ---
-
-<div align="center">
-
-[GitHub](https://github.com/duartexz-dev) · [Instagram](https://instagram.com/duartexz.dev) · [YouTube](SEU_LINK)
-
-</div>
