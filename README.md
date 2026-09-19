@@ -32,8 +32,7 @@ My goal is to become a **Software Engineer**, combining programming and design t
 <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
 <img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
-
-<br><br>
+<br>
 
 ### Socials
 
@@ -50,18 +49,6 @@ My goal is to become a **Software Engineer**, combining programming and design t
 </a>
 
 </div>
-**Main**
-
-`JavaScript` `CSS` `HTML`
-
-**Also learning / using**
-
-`React.js` `Bootstrap` `Python` `Java`
-
-> Java is currently a new area of study for me.
-
----
-
 ## Design
 
 I’m interested in:
