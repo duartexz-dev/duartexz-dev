@@ -43,9 +43,6 @@ My goal is to become a **Software Engineer**, combining programming and design t
 <img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <br>
-
-### Socials
-
 <a href="https://youtube.com/@duarteeo-dev?si=efG8HJRStj6B4pY4">
 <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
