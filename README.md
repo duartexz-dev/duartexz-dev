@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=3EA6FF&center=true&vCenter=true&width=650&lines=Arthur+Duarte;%40duartexz-dev;Aprendendo+a+construir+desde+jun%2F2025;Why+not+you+%3F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=3EA6FF&center=true&vCenter=true&width=700&lines=Arthur+Duarte;%40duartexz-dev;Building+since+Jun%2F2025;Software+Engineering+%2B+Cybersecurity;Why+not+you+%3F" alt="Typing SVG" />
 
 <br>
 
@@ -14,11 +13,15 @@
 
 ## `>` whoami
 
-Comecei a programar em **junho de 2025**. Desde então venho construindo projetos pequenos e médios pra aprender na prática — errando, refazendo, testando o quanto consigo chegar sozinho e com ferramentas de IA no meio do caminho.
+Comecei a programar em **junho de 2025**.
 
-Não é uma trajetória longa. É uma trajetória em movimento.
+Desde então, venho aprendendo principalmente construindo projetos — começando com aplicações simples e evoluindo para interfaces, sistemas, consumo de APIs e projetos utilizando React.
 
-Direção: **Software Engineering**, com curiosidade crescente por **cybersecurity** — ainda como área de interesse, não como habilidade consolidada.
+Hoje meu foco está em **Software Engineering**, enquanto exploro cada vez mais **Cybersecurity** como uma área que quero aprofundar no futuro.
+
+Ainda estou no começo.
+
+Mas já estou construindo.
 
 <br>
 
@@ -35,59 +38,130 @@ Direção: **Software Engineering**, com curiosidade crescente por **cybersecuri
 
 </div>
 
+<br>
+
+### `>` ferramentas
+
 <div align="center">
 
-**ferramentas de IA que uso no processo de aprendizado:**
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Canva-000000?style=flat-square&logo=canva&logoColor=00C4CC" />
+
+</div>
+
+<br>
+
+### `>` AI tools
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
 
 </div>
 
 <br>
 
-## `>` projetos em destaque
+## `>` currently learning
+
+```text
+JAVASCRIPT   — aprofundando lógica, APIs e organização de código
+REACT        — componentes, estado e aplicações com Vite
+PYTHON       — fundamentos e lógica de programação
+JAVA         — começando a explorar a linguagem
+CYBERSECURITY — área que quero aprofundar
+```
+
+<br>
+
+## `>` projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+### 🥑 Avocrypto
+
+Aplicação web para **monitoramento de criptomoedas**, criada para praticar consumo de APIs, manipulação de dados e construção de interfaces.
+
+Atualmente trabalha com dados da **CoinGecko**, busca de criptomoedas, ranking, Top 100 e informações de mercado.
+
+`HTML` `CSS` `JavaScript` `Bootstrap` `API`
+
+[→ ver repositório](https://github.com/duartexz-dev/Avocrypto)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ Duarte OS
+
+Projeto experimental de uma interface inspirada em um sistema operacional.
+
+A ideia é transformar conceitos de desktop, dock, workspace, chat e informações pessoais em uma experiência web própria.
+
+`HTML` `CSS` `JavaScript`
+
+[→ ver repositório](https://github.com/duartexz-dev/Duarte-OS)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### Code.Flow
 
-Plataforma de ensino de programação. O desafio pessoal por trás dela: testar até onde eu conseguiria chegar construindo algo real utilizando IA (Antigravity) como ferramenta de apoio — não como autora do projeto. As decisões, ajustes e correções foram minhas.
+Plataforma de aprendizado de programação criada como um projeto pessoal para experimentar interfaces educacionais, cursos, exercícios e diferentes formas de usar IA durante o desenvolvimento.
 
-`HTML` · `STATUS: projeto pessoal`
+`HTML` `CSS` `JavaScript` `IA`
 
 [→ ver repositório](https://github.com/duartexz-dev/Code.Flow)
 
 </td>
+
 <td width="50%" valign="top">
 
-### NexusPay
+### Perfil-Stacks
 
-Plataforma web de simulação de investimentos, criada pra praticar JavaScript, lógica financeira e desenvolvimento front-end. Permite simular investimentos em renda fixa e outras modalidades — é um projeto de prática, não uma plataforma financeira real.
+Projeto criado para apresentar minha trajetória, tecnologias, projetos e evolução como desenvolvedor utilizando React e Vite.
 
-`HTML` · `STATUS: projeto de aprendizado`
+`React` `Vite` `JavaScript` `Bootstrap`
 
-[→ ver repositório](https://github.com/duartexz-dev/NexusPay)
+[→ ver repositório](https://github.com/duartexz-dev/Perfil-Stacks)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### Focus
 
-Plataforma de produtividade construída com HTML, CSS, JavaScript e Bootstrap, pra organizar tarefas e acompanhar progresso de forma simples.
+Aplicação de produtividade para organização de tarefas, metas e progresso.
 
-`HTML` `CSS` `JavaScript` `Bootstrap` · `STATUS: projeto de aprendizado`
+Utiliza armazenamento local para manter os dados diretamente no navegador.
+
+`HTML` `CSS` `JavaScript` `Bootstrap` `LocalStorage`
 
 [→ ver repositório](https://github.com/duartexz-dev/Focus)
 
 </td>
+
 <td width="50%" valign="top">
+
+### NexusPay
+
+Simulador de investimentos desenvolvido para praticar JavaScript, lógica financeira, juros compostos e manipulação de dados.
+
+Não é uma plataforma financeira real.
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+[→ ver repositório](https://github.com/duartexz-dev/NexusPay)
 
 </td>
 </tr>
@@ -95,20 +169,39 @@ Plataforma de produtividade construída com HTML, CSS, JavaScript e Bootstrap, p
 
 <br>
 
-## `>` estatísticas
+## `>` evolution
+
+```text
+JUN 2025
+│
+├── primeiros projetos
+│
+├── HTML / CSS / JavaScript
+│
+├── interfaces e aplicações
+│
+├── LocalStorage + lógica de aplicações
+│
+├── APIs externas
+│
+├── React + Vite
+│
+├── projetos maiores
+│
+├── monitoramento de dados
+│
+└── agora → Software Engineering
+             + Cybersecurity
+```
+
+<br>
+
+## `>` statistics
 
 <div align="center">
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
-</div>
-
-<div align="center">
-
-![Code.Flow](./profile/pin-codeflow.svg)
-![NexusPay](./profile/pin-nexuspay.svg)
-![Focus](./profile/pin-focus.svg)
+<img src="./profile/stats.svg" />
+<img src="./profile/top-langs.svg" />
 
 </div>
 
@@ -118,7 +211,7 @@ Plataforma de produtividade construída com HTML, CSS, JavaScript e Bootstrap, p
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/duartexz-dev/duartexz-dev/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/duartexz-dev/duartexz-dev/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
 </div>
 
@@ -126,10 +219,11 @@ Plataforma de produtividade construída com HTML, CSS, JavaScript e Bootstrap, p
 
 ## `>` status
 
-```
-BUILDING      — construindo projetos, um de cada vez
-LEARNING      — JavaScript, Python, React
-EXPERIMENTING — usando IA como ferramenta, não como atalho
+```text
+BUILDING      — criando projetos para aprender na prática
+LEARNING      — JavaScript, React, Python e Java
+EXPLORING     — Software Engineering + Cybersecurity
+EXPERIMENTING — APIs, interfaces e novas tecnologias
 ```
 
 <br>
@@ -138,18 +232,16 @@ EXPERIMENTING — usando IA como ferramenta, não como atalho
 
 <div align="center">
 
-<a href="https://github.com/duartexz-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<!-- adicione aqui outros badges reais seus, ex:
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/seu-usuario"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
--->
+<a href="https://github.com/duartexz-dev">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 <br>
 
 <div align="center">
+
 <sub>WHY NOT YOU?</sub>
+
 </div>
