@@ -1,10 +1,12 @@
- <div align="center">
+<div align="center">
 
 # Arthur Duarte
 
-**Designer · Programming Student · Aspiring Software Engineer**
+**Designer · Programming Student**
 
-Interested in software engineering, cybersecurity, and building useful digital products.
+[![YouTube](https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@duarteeo-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/duarteeo.dev/)
+[![Links](https://img.shields.io/badge/Links-111827?style=flat-square&logo=linktree&logoColor=white)](https://duartexz-dev.github.io/LinkTree/)
 
 </div>
 
@@ -12,34 +14,27 @@ Interested in software engineering, cybersecurity, and building useful digital p
 
 ## About
 
-I started programming in June 2025 and have been learning by building projects, testing ideas, and improving my code along the way.
+Programming student focused on web development. I started in June 2025 and build projects with JavaScript, HTML, and CSS. I also have an interest in interface design and am currently learning Java.
 
-I care about more than how an interface looks. I'm interested in the logic and structure behind software, how systems work, and what makes applications reliable.
+## Skills
 
-My design background also influences how I approach usability, clarity, and the overall experience of a digital product.
+**Web development**  
+HTML5 · CSS3 · JavaScript · Bootstrap
 
----
+**What I work with**  
+DOM manipulation · Events · Forms · LocalStorage · JSON · REST API integration · Responsive layouts
 
-## Technologies
+**Design**  
+Interface layout · Visual hierarchy · Usability
 
-**Building with**
+**Tools**  
+Git · GitHub · VS Code
 
-<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+## Currently learning
 
-**Currently learning**
+Java · React · Python
 
-<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+## Certificates
 
----
-
-## Interests
-
-`Software Engineering` · `Cybersecurity` · `Computer Science`
-
----
-
-## Elsewhere
-
-<a href="https://youtube.com/@duarteeo-dev"><img src="https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.instagram.com/duarteeo.dev/"><img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://duartexz-dev.github.io/LinkTree/"><img src="https://img.shields.io/badge/My_Links-111827?style=flat-square&logo=linktree&logoColor=white" alt="My links"/></a>
+- [Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes](https://www.dio.me/certificate/FE5RDIRU/share) — DIO · September 2026
+- [Fundamentos da Sintaxe da Linguagem Java](https://www.dio.me/certificate/TAGBFPAJ/share) — DIO · September 2026
