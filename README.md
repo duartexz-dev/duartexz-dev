@@ -1,79 +1,45 @@
-<div align="center">
+ <div align="center">
 
 # Arthur Duarte
 
 **Designer · Programming Student · Aspiring Software Engineer**
 
-
-<div align="center">
-  <a href="https://github.com/duartexz-dev">
-    <img
-      src="https://ghchart.xqsit94.in/dark:26a641/duartexz-dev"
-      alt="GitHub Contributions — duartexz-dev"
-      width="888"
-    />
-  </a>
-</div>
+Interested in software engineering, cybersecurity, and building useful digital products.
 
 </div>
 
 ---
 
-<br>
 ## About
 
-I’m Arthur Duarte, a designer and programming student focused on web development and software engineering.
+I started programming in June 2025 and have been learning by building projects, testing ideas, and improving my code along the way.
 
-I started programming in June 2025 and have been learning through practice, building interfaces and studying different technologies.
+I care about more than how an interface looks. I'm interested in the logic and structure behind software, how systems work, and what makes applications reliable.
 
-My goal is to become a **Software Engineer**, combining programming and design to build well-structured digital products.
-
----
-
-## Stack
-<div align="center">
-
-### Stack
-
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<br>
-<a href="https://youtube.com/@duarteeo-dev?si=efG8HJRStj6B4pY4">
-<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
-</a>
-
-<a href="https://www.instagram.com/duarteeo.dev/?hl=pt-br">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<a href="https://duartexz-dev.github.io/LinkTree/">
-<img src="https://img.shields.io/badge/LinkTree-111111?style=for-the-badge&logo=linktree&logoColor=43E660"/>
-</a>
-
-</div>
-## Design
-
-I’m interested in:
-
-`UI/UX` · `Visual Design` · `Interfaces` · `Digital Products`
-
-My design background influences the way I approach interfaces, usability and visual systems.
+My design background also influences how I approach usability, clarity, and the overall experience of a digital product.
 
 ---
 
-## Focus
+## Technologies
 
-**Currently**
+**Building with**
 
-Programming · Web Development · React.js · Python · Java
+<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
-**Long-term**
+**Currently learning**
 
-Software Engineering · Computer Science · designer
+<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 
 ---
+
+## Interests
+
+`Software Engineering` · `Cybersecurity` · `Computer Science`
+
+---
+
+## Elsewhere
+
+<a href="https://youtube.com/@duarteeo-dev"><img src="https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.instagram.com/duarteeo.dev/"><img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://duartexz-dev.github.io/LinkTree/"><img src="https://img.shields.io/badge/My_Links-111827?style=flat-square&logo=linktree&logoColor=white" alt="My links"/></a>
