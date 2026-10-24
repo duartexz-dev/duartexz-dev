@@ -23,6 +23,7 @@ HTML5 · CSS3 · JavaScript · Bootstrap
 
 **What I work with**  
 DOM manipulation · Events · Forms · LocalStorage · JSON · REST API integration · Responsive layouts
+<br>
 **Contact With me**
 ·arthurduarte.code@gmail.com
 
