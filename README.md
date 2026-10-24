@@ -32,7 +32,7 @@ Git · GitHub · VS Code
 
 ## Currently learning
 
-Java · React · Python
+Java · Git Github · POO (Programação Orientada a Objetos)
 
 ## Certificates
 
