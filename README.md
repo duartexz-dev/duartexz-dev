@@ -25,7 +25,7 @@ HTML5 · CSS3 · JavaScript · Bootstrap
 DOM manipulation · Events · Forms · LocalStorage · JSON · REST API integration · Responsive layouts
 <br>
 **Contact With me** <br>
-·arthurduarte.code@gmail.com
+ - arthurduarte.code@gmail.com
 
 **Design**  
 Interface layout · Visual hierarchy · Usability
