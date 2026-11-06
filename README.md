@@ -23,6 +23,11 @@ I share my content and programming journey on my YouTube channel [duarteeo-dev](
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
 [![VSCODE](https://img.shields.io/badge/visual_studio_code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
+
+
+[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t=1)](https://discord.gg/programador)
+
+
 #### Socials
 
 [![GITHUB](https://img.shields.io/badge/duartexz--dev-000000?style=flat&logo=github&logoColor=white)](https://github.com/duartexz-dev)
