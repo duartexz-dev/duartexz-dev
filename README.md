@@ -1,42 +1,30 @@
-<div align="center">
-
 # Arthur Duarte
 
-**Designer · Web Developer in training**
+Hello, my name is Arthur Duarte, I'm a Brazilian programming student and designer. I started learning programming in June 2025, and I'm passionate about technology, software development, and building projects.
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@duarteeo-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/duarteeo.dev/)
-[![Links](https://img.shields.io/badge/Links-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://duartexz-dev.github.io/LinkTree/)
+I'm currently focused on improving my programming skills, learning Java, and exploring different technologies. I believe the best way to learn is by building things, making mistakes, and constantly improving.
 
-</div>
+I share my content and programming journey on my YouTube channel [duarteeo-dev](https://www.youtube.com/@duarteeo-dev).
 
----
+[![SUBSCRIBE](https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@duarteeo-dev)
+[![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/duartexz-dev?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/duartexz-dev?tab=followers)
+[![STARS](https://custom-icon-badges.demolab.com/github/stars/duartexz-dev?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/duartexz-dev?tab=repositories&sort=stargazers)
 
-## About
+#### Technologies and tools
 
-Programming student focused on web development. I started in June 2025 and build projects with JavaScript, HTML, and CSS. I'm also interested in interface design and currently learning Java.
+[![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)]()
+[![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
+[![REACT](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)]()
+[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
+[![VSCODE](https://img.shields.io/badge/visual_studio_code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
-## Featured projects
+#### Socials
 
-- **[Project name](link)**: one line on what it does · `JavaScript` `HTML` `CSS`
-- **[Project name](link)**: one line on what it does · `JavaScript` `REST API`
-- **[BuildJava.ln](https://github.com/duartexz-dev/BuildJava.ln)**: one line on what it is
-
-## Skills
-
-**Web:** HTML5 · CSS3 · JavaScript · Bootstrap · DOM · Events · Forms · LocalStorage · JSON · REST APIs · Responsive layouts
-**Design:** Interface layout · Visual hierarchy · Usability
-**Tools:** Git · GitHub · VS Code
-
-## Currently learning
-
-Java · Object-Oriented Programming (OOP)
-
-## Certificates
-
-- [Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes](https://www.dio.me/certificate/FE5RDIRU/share), DIO · September 2026
-- [Fundamentos da Sintaxe da Linguagem Java](https://www.dio.me/certificate/TAGBFPAJ/share), DIO · September 2026
-
-## Contact
-
-arthurduarte.code@gmail.com
+[![GITHUB](https://img.shields.io/badge/duartexz--dev-000000?style=flat&logo=github&logoColor=white)](https://github.com/duartexz-dev)
+[![YOUTUBE](https://img.shields.io/badge/duarteeo--dev-000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@duarteeo-dev)
+[![INSTAGRAM](https://img.shields.io/badge/duarteeo.dev-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/duarteeo.dev/)
