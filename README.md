@@ -27,6 +27,8 @@ I share my content and programming journey on my YouTube channel [duarteeo-dev](
 
 [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t=1)](https://discord.gg/programador)
 
+#### GitHub Stats:
+![Segmentation fault (core dumped)](https://streak-stats.demolab.com?user=duartexz-dev&theme=dark)
 
 #### Socials
 
