@@ -6,9 +6,7 @@ I'm currently focused on improving my programming skills, learning Java, and exp
 
 I share my content and programming journey on my YouTube channel [duarteeo-dev](https://www.youtube.com/@duarteeo-dev).
 
-[![SUBSCRIBE](https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@duarteeo-dev)
-[![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/duartexz-dev?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/duartexz-dev?tab=followers)
-[![STARS](https://custom-icon-badges.demolab.com/github/stars/duartexz-dev?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/duartexz-dev?tab=repositories&sort=stargazers)
+
 
 #### Technologies and tools
 
