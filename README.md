@@ -1,34 +1,48 @@
-# Arthur Duarte
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Arthur Duarte — designer, programming student and aspiring software engineer" width="100%">
+</p>
 
-Hello, my name is Arthur Duarte, I'm a Brazilian programming student and designer. I started learning programming in June 2025, and I'm passionate about technology, software development, and building projects.
+<p align="center">
+  <a href="https://github.com/duartexz-dev">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@duarteeo-dev">YouTube</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/duarteeo.dev/">Instagram</a>
+</p>
 
-I'm currently focused on improving my programming skills, learning Java, and exploring different technologies. I believe the best way to learn is by building things, making mistakes, and constantly improving.
+## About
 
-I share my content and programming journey on my YouTube channel [duarteeo-dev](https://www.youtube.com/@duarteeo-dev).
+I'm a Brazilian designer and programming student interested in software development and thoughtful digital experiences. Since **June 2025**, I've been learning by building projects, testing ideas, and documenting what I discover.
 
+My current focus is **Java**, **object-oriented programming**, and strengthening my **JavaScript** fundamentals.
 
+## Selected work
 
-#### Technologies and tools
+| Project | Overview |
+| --- | --- |
+| [BuildJava.ln](https://github.com/duartexz-dev/BuildJava.ln) | A practical Java learning path with original exercises, study guides, and a catalogue that tracks real progress. |
+| [agentes.code](https://github.com/duartexz-dev/agentes.code) | A GitHub Actions workflow that collects and organizes Copilot agent definitions from my repositories. |
+| [Avocrypto](https://github.com/duartexz-dev/Avocrypto) | A cryptocurrency dashboard that consumes the CoinGecko API to display market data, rankings, and news. |
 
-[![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)]()
-[![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
-[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
-[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
-[![VSCODE](https://img.shields.io/badge/visual_studio_code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+## Technologies
 
+**Languages and web**
 
+![Java](https://img.shields.io/badge/Java-191820?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-191820?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-191820?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-191820?style=flat-square&logo=css3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/Python-191820?style=flat-square&logo=python&logoColor=3776AB)
 
-[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t=1)](https://discord.gg/programador)
+**Tools**
 
-#### GitHub Stats:
-![Segmentation fault (core dumped)](https://streak-stats.demolab.com?user=duartexz-dev&theme=dark)
+![Git](https://img.shields.io/badge/Git-191820?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-191820?style=flat-square&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-191820?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-191820?style=flat-square&logo=bootstrap&logoColor=7952B3)
 
-#### Socials
+---
 
-[![GITHUB](https://img.shields.io/badge/duartexz--dev-000000?style=flat&logo=github&logoColor=white)](https://github.com/duartexz-dev)
-[![YOUTUBE](https://img.shields.io/badge/duarteeo--dev-000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@duarteeo-dev)
-[![INSTAGRAM](https://img.shields.io/badge/duarteeo.dev-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/duarteeo.dev/)
+<p align="center">
+  <sub>Learning by building · Since June 2025</sub>
+</p>
