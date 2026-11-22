@@ -1,6 +1,6 @@
 # Arthur Duarte
 
-**Designer · Programming Student · Aspiring Software Engineer**
+**Builder · Programming Student · Aspiring Software Engineer**
 
 I'm a Brazilian programming student interested in software development, interface design, and building useful projects. I started learning programming in **June 2025** and use hands-on projects to turn concepts into practical experience.
 
@@ -8,13 +8,9 @@ I'm currently strengthening my **Java** fundamentals, studying object-oriented p
 
 > Learning to build, one project at a time — since June 2025.
 
-## Featured projects
+## My Streak
 
-| Project | What it is |
-| --- | --- |
-| [BuildJava.ln](https://github.com/duartexz-dev/BuildJava.ln) | A hands-on Java learning repository with practical exercises, study guides, and a progressive learning path. |
-| [agentes.code](https://github.com/duartexz-dev/agentes.code) | A centralized catalog that synchronizes GitHub Copilot agent files across repositories using GitHub Actions. |
-| [Avocrypto](https://github.com/duartexz-dev/Avocrypto) | A cryptocurrency dashboard that uses the CoinGecko API to display market data, rankings, and related news. |
+![Segmentation fault (core dumped)](https://streak-stats.demolab.com?user=duartexz-dev&theme=dark)
 
 ## Technologies & tools
 
